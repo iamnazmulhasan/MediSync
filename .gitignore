@@ -1,0 +1,39 @@
+# =========================
+# Backend (Django/Python)
+# =========================
+# Byte-compiled files (Safe to ignore - Python automatically rebuilds these)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments (Do not upload these, they are too heavy)
+venv/
+env/
+.venv/
+
+# Environment Variables (Keeps your API keys and secrets safe)
+.env
+*.env
+
+# NOTE: db.sqlite3 is deliberately NOT ignored so your manual tables are shared.
+# NOTE: __init__.py files are deliberately NOT ignored as Python requires them.
+
+# =========================
+# Frontend (React/Vite)
+# =========================
+# Node modules (Massive folder, team members will run 'npm install' locally instead)
+frontend/node_modules/
+
+# Production build folders
+frontend/dist/
+frontend/build/
+
+# Frontend Environment Variables
+frontend/.env
+frontend/.env.local
+
+# =========================
+# OS Generated Files
+# =========================
+.DS_Store
+Thumbs.db
