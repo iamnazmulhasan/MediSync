@@ -1,0 +1,2010 @@
+[
+  {
+    "model": "core.commonsymptomp",
+    "pk": 1,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "Fever (acute)"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 2,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "Fever (prolonged)"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 3,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "Cough"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 4,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "Cold"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 5,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "Sore throat"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 6,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "Body ache"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 7,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "Weaknessatigue"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 8,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "Headache"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 9,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "Loss of appetite"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 10,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "Weight loss or weight gain"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 11,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "Dizziness"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 12,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "Nausea, vomiting"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 13,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "Mild chest discomfort (non-cardiac)"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 14,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "Shortness of breath (mild)"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 15,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "Abdominal pain"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 16,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "Diarrhea or constipation"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 17,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "Generalized swelling (face/leg)"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 18,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "Sleep disturbance"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 19,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "Mild anemia symptoms (paleness, tiredness)"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 20,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "Recurrent infections"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 21,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "Increased thirst"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 22,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "Frequent urination"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 23,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "Increased hunger"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 24,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "Unexplained weight loss"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 25,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "Fatigue"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 26,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "Blurred vision"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 27,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "Delayed wound healing"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 28,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "Excessive sweating"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 29,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "Palpitations"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 30,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "Heat or cold intolerance"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 31,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "Hair fall"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 32,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "Menstrual irregularity"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 33,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "Erectile dysfunction"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 34,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "Hand tremor"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 35,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "Chest pain"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 36,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "Chest tightness"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 37,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "Shortness of breath"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 38,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "Palpitation"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 39,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "Fainting episode"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 40,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "Fatigue on exertion"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 41,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "Swelling of feet"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 42,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "Orthopnea"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 43,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "Paroxysmal nocturnal dyspnea"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 44,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "Irregular heartbeat"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 45,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "Headache due to high BP"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 46,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "Blurred vision (high BP)"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 47,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "Left arm pain"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 48,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "Epigastric pain"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 49,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "Burning sensation in chest"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 50,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "Acid reflux"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 51,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "Indigestion"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 52,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "Bloating"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 53,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "Nausea"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 54,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "Vomiting"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 55,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "Weight loss"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 56,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "Diarrhea"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 57,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "Constipation"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 58,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "Blood in stool"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 59,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "Black stool"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 60,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "Jaundice"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 61,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "Abdominal distension"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 62,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "Irregular menstruation"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 63,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "Painful menstruation"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 64,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "Excessive menstrual bleeding"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 65,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "Scanty menstrual flow"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 66,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "Lower abdominal pain"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 67,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "Pelvic pain"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 68,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "Vaginal discharge"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 69,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "Vaginal itching"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 70,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "Foul-smelling discharge"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 71,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "Missed period"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 72,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "Postcoital bleeding"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 73,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "Intermenstrual bleeding"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 74,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "Breast pain"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 75,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "Breast lump"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 76,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "Menopausal symptoms"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 77,
+    "fields": {
+      "doctor_type_id": 6,
+      "name": "Morning sickness"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 78,
+    "fields": {
+      "doctor_type_id": 6,
+      "name": "Back pain"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 79,
+    "fields": {
+      "doctor_type_id": 6,
+      "name": "Leg swelling"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 80,
+    "fields": {
+      "doctor_type_id": 6,
+      "name": "Increased urination"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 81,
+    "fields": {
+      "doctor_type_id": 6,
+      "name": "Reduced fetal movement"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 82,
+    "fields": {
+      "doctor_type_id": 6,
+      "name": "Abdominal tightening"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 83,
+    "fields": {
+      "doctor_type_id": 6,
+      "name": "Per vaginal bleeding"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 84,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "Fever"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 85,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "Difficulty breathing"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 86,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "Poor feeding"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 87,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "Excessive crying"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 88,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "Failure to gain weight"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 89,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "Rash"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 90,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "Seizure"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 91,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "Lethargy"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 92,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "Delayed milestones"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 93,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "Joint pain"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 94,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "Knee pain"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 95,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "Hip pain"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 96,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "Shoulder pain"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 97,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "Neck pain"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 98,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "Joint swelling"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 99,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "Joint stiffness"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 100,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "Morning stiffness"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 101,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "Restricted joint movement"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 102,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "Bone pain"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 103,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "Limb deformity"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 104,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "Numbness"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 105,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "Tingling sensation"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 106,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "History of trauma"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 107,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "Itching"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 108,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "Skin rash"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 109,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "Redness of skin"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 110,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "Dry skin"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 111,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "Oily skin"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 112,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "Acne"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 113,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "Pimple"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 114,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "Dandruff"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 115,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "Skin discoloration"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 116,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "White patch on skin"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 117,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "Dark patch on skin"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 118,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "Scaling of skin"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 119,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "Nail discoloration"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 120,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "Skin infection"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 121,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "Ear pain"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 122,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "Ear discharge"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 123,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "Hearing loss"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 124,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "Tinnitus"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 125,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "Vertigo"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 126,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "Nasal congestion"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 127,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "Runny nose"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 128,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "Sneezing"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 129,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "Nose bleeding"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 130,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "Sinus pain"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 131,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "Throat pain"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 132,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "Difficulty swallowing"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 133,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "Hoarseness of voice"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 134,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "Neck swelling"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 135,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "Decreased vision"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 136,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "Eye pain"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 137,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "Eye redness"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 138,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "Eye discharge"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 139,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "Itching of eyes"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 140,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "Watering of eyes"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 141,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "Photophobia"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 142,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "Foreign body sensation"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 143,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "Headache with eye strain"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 144,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "Double vision"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 145,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "Sudden vision loss"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 146,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "Eye swelling"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 147,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "Dry eyes"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 148,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "Burning sensation"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 149,
+    "fields": {
+      "doctor_type_id": 12,
+      "name": "Severe headache"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 150,
+    "fields": {
+      "doctor_type_id": 12,
+      "name": "Migraine"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 151,
+    "fields": {
+      "doctor_type_id": 12,
+      "name": "Loss of consciousness"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 152,
+    "fields": {
+      "doctor_type_id": 12,
+      "name": "Limb weakness"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 153,
+    "fields": {
+      "doctor_type_id": 12,
+      "name": "Facial deviation"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 154,
+    "fields": {
+      "doctor_type_id": 12,
+      "name": "Slurred speech"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 155,
+    "fields": {
+      "doctor_type_id": 12,
+      "name": "Memory loss"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 156,
+    "fields": {
+      "doctor_type_id": 12,
+      "name": "Tremor"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 157,
+    "fields": {
+      "doctor_type_id": 12,
+      "name": "Difficulty walking"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 158,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "Low mood"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 159,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "Persistent sadness"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 160,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "Anxiety"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 161,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "Excessive worry"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 162,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "Panic attack"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 163,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "Irritability"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 164,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "Loss of interest"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 165,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "Poor concentration"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 166,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "Memory problem"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 167,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "Hallucination"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 168,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "Delusion"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 169,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "Mood swing"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 170,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "Suicidal thought"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 171,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "Behavioral change"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 172,
+    "fields": {
+      "doctor_type_id": 14,
+      "name": "Burning micturition"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 173,
+    "fields": {
+      "doctor_type_id": 14,
+      "name": "Increased urinary frequency"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 174,
+    "fields": {
+      "doctor_type_id": 14,
+      "name": "Urgency of urination"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 175,
+    "fields": {
+      "doctor_type_id": 14,
+      "name": "Difficulty in urination"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 176,
+    "fields": {
+      "doctor_type_id": 14,
+      "name": "Weak urine stream"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 177,
+    "fields": {
+      "doctor_type_id": 14,
+      "name": "Nocturia"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 178,
+    "fields": {
+      "doctor_type_id": 14,
+      "name": "Hematuria"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 179,
+    "fields": {
+      "doctor_type_id": 14,
+      "name": "Flank pain"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 180,
+    "fields": {
+      "doctor_type_id": 14,
+      "name": "Scrotal pain"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 181,
+    "fields": {
+      "doctor_type_id": 14,
+      "name": "Testicular swelling"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 182,
+    "fields": {
+      "doctor_type_id": 14,
+      "name": "Urinary retention"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 183,
+    "fields": {
+      "doctor_type_id": 14,
+      "name": "Dribbling of urine"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 184,
+    "fields": {
+      "doctor_type_id": 14,
+      "name": "Painful ejaculation"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 185,
+    "fields": {
+      "doctor_type_id": 15,
+      "name": "Reduced urine output"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 186,
+    "fields": {
+      "doctor_type_id": 15,
+      "name": "Increased urine output"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 187,
+    "fields": {
+      "doctor_type_id": 15,
+      "name": "Swelling of face"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 188,
+    "fields": {
+      "doctor_type_id": 15,
+      "name": "Swelling of legs"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 189,
+    "fields": {
+      "doctor_type_id": 15,
+      "name": "Foamy urine"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 190,
+    "fields": {
+      "doctor_type_id": 15,
+      "name": "Blood in urine"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 191,
+    "fields": {
+      "doctor_type_id": 15,
+      "name": "High blood pressure"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 192,
+    "fields": {
+      "doctor_type_id": 15,
+      "name": "Muscle cramps"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 193,
+    "fields": {
+      "doctor_type_id": 16,
+      "name": "Chronic cough"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 194,
+    "fields": {
+      "doctor_type_id": 16,
+      "name": "Productive cough"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 195,
+    "fields": {
+      "doctor_type_id": 16,
+      "name": "Dry cough"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 196,
+    "fields": {
+      "doctor_type_id": 16,
+      "name": "Wheezing"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 197,
+    "fields": {
+      "doctor_type_id": 16,
+      "name": "Hemoptysis"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 198,
+    "fields": {
+      "doctor_type_id": 16,
+      "name": "Fever with cough"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 199,
+    "fields": {
+      "doctor_type_id": 16,
+      "name": "Night cough"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 200,
+    "fields": {
+      "doctor_type_id": 16,
+      "name": "Exercise intolerance"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 201,
+    "fields": {
+      "doctor_type_id": 16,
+      "name": "Cyanosis"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 202,
+    "fields": {
+      "doctor_type_id": 17,
+      "name": "Acute abdominal pain"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 203,
+    "fields": {
+      "doctor_type_id": 17,
+      "name": "Swelling in abdomen"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 204,
+    "fields": {
+      "doctor_type_id": 17,
+      "name": "Lump in groin"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 205,
+    "fields": {
+      "doctor_type_id": 17,
+      "name": "Lump in abdomen"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 206,
+    "fields": {
+      "doctor_type_id": 17,
+      "name": "Painful swelling"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 207,
+    "fields": {
+      "doctor_type_id": 17,
+      "name": "Non-healing wound"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 208,
+    "fields": {
+      "doctor_type_id": 17,
+      "name": "Discharge from wound"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 209,
+    "fields": {
+      "doctor_type_id": 17,
+      "name": "Bleeding per rectum"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 210,
+    "fields": {
+      "doctor_type_id": 17,
+      "name": "Fever with pain"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 211,
+    "fields": {
+      "doctor_type_id": 17,
+      "name": "Trauma history"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 212,
+    "fields": {
+      "doctor_type_id": 17,
+      "name": "Burn injury"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 213,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "Toothache"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 214,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "Dental sensitivity"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 215,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "Gum pain"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 216,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "Gum swelling"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 217,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "Gum bleeding"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 218,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "Bad breath"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 219,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "Loose tooth"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 220,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "Tooth discoloration"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 221,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "Mouth ulcer"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 222,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "Jaw pain"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 223,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "Difficulty chewing"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 224,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "Facial swelling"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 225,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "Impacted tooth pain"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 226,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "Broken tooth"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 227,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "Oral burning sensation"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 228,
+    "fields": {
+      "doctor_type_id": 19,
+      "name": "Persistent fatigue"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 229,
+    "fields": {
+      "doctor_type_id": 19,
+      "name": "Persistent pain"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 230,
+    "fields": {
+      "doctor_type_id": 19,
+      "name": "Lump or swelling"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 231,
+    "fields": {
+      "doctor_type_id": 19,
+      "name": "Non-healing ulcer"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 232,
+    "fields": {
+      "doctor_type_id": 19,
+      "name": "Abnormal bleeding"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 233,
+    "fields": {
+      "doctor_type_id": 19,
+      "name": "Change in bowel habit"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 234,
+    "fields": {
+      "doctor_type_id": 19,
+      "name": "Change in bladder habit"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 235,
+    "fields": {
+      "doctor_type_id": 19,
+      "name": "Persistent cough"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 236,
+    "fields": {
+      "doctor_type_id": 19,
+      "name": "Night sweats"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 237,
+    "fields": {
+      "doctor_type_id": 19,
+      "name": "Anemia symptoms"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 238,
+    "fields": {
+      "doctor_type_id": 19,
+      "name": "Fever of unknown origin"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 239,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "Severe chest pain"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 240,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "Severe shortness of breath"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 241,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "Unconsciousness"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 242,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "Altered mental status"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 243,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "Seizure activity"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 244,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "Severe bleeding"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 245,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "Polytrauma"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 246,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "Road traffic injury"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 247,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "Sudden limb weakness"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 248,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "High-grade fever"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 249,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "Severe abdominal pain"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 250,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "Anaphylaxis"
+    }
+  },
+  {
+    "model": "core.commonsymptomp",
+    "pk": 251,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "Cardiac arrest"
+    }
+  }
+]

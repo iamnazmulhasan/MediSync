@@ -1,0 +1,2852 @@
+[
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ABDOMINAL AORTIC ANEURYSM"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ABDOMINAL PAIN"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ABDOMINAL PAIN - FEMALE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ABDOMINAL PAIN - MALE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ABORTION"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ABRASION"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ABSCESS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ABSCESS, BARTHOLIN'S"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ABSCESSES"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ABSENCE SEIZURE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ABSENCE SEIZURES"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACANTHOSIS NIGRICANS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACHALASIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACHILLES TENDINITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACHILLES TENDINOPATHY"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACHILLES TENDON RUPTURE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACID AND CHEMICAL BURNS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACID REFLUX"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACID REFLUX IN BABIES"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACNE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACNE INVERSA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACNE KELOIDALIS NUCHAE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACOUSTIC NEUROMA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACOUSTIC NEUROMA (VESTIBULAR SCHWANNOMA)"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACQUIRED HEMOPHILIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACQUIRED IMMUNE DEFICIENCY SYNDROME (AIDS)"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACROMEGALY"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACTINIC KERATOSES"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACTINIC KERATOSIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACTINOMYCOSIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACUTE BRONCHIOLITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACUTE BRONCHITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACUTE CHOLECYSTITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACUTE CORONARY SYNDROME"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACUTE FLACCID MYELITIS (AFM)"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACUTE GRANULOCYTIC LEUKEMIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACUTE KIDNEY FAILURE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACUTE KIDNEY INJURY"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACUTE LIVER FAILURE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACUTE LYMPHOBLASTIC LEUKAEMIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACUTE LYMPHOCYTIC LEUKEMIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACUTE LYMPHOID LEUKEMIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACUTE MYELOBLASTIC LEUKEMIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACUTE MYELOGENOUS LEUKEMIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACUTE MYELOID LEUKEMIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACUTE NONLYMPHOCYTIC LEUKEMIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACUTE PANCREATITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACUTE RESPIRATORY DISTRESS SYNDROME (ARDS)"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACUTE RESPIRATORY INFECTION (ARI)"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACUTE RHEUMATIC FEVER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ACUTE SINUSITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ADDISON'S DISEASE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ADENOMYOSIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ADHD"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ADHD IN ADULTS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ADHD IN CHILDREN AND YOUNG PEOPLE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ADRENAL CANCER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ADRENAL INSUFFICIENCY"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ADRENOLEUKODYSTROPHY"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ADULT ATTENTION-DEFICIT/HYPERACTIVITY DISORDER (ADHD)"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ADULT STILL DISEASE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "AGORAPHOBIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ALBINISM"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ALCOHOL MISUSE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ALCOHOL POISONING"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ALCOHOL USE DISORDER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ALLERGIC RHINITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ALLERGIES"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ALOPECIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ALPHA-1-ANTITRYPSIN DEFICIENCY"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ALPHA-GAL SYNDROME"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ALTITUDE SICKNESS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ALZHEIMER'S DISEASE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "AMBIGUOUS GENITALIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "AMEBIASIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "AMELOBLASTOMA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "AMENORRHEA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "AMNESIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "AMYLOIDOSIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "AMYOTROPHIC LATERAL SCLEROSIS (ALS)"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ANAL CANCER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ANAL FISSURE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ANAL FISTULA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ANAL ITCHING"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ANAPHYLAXIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ANAPLASTIC LARGE CELL LYMPHOMA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ANEMIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ANEMIA, APLASTIC"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ANEMIA, IRON DEFICIENCY"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ANEMIA, SICKLE CELL"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ANEMIA, VITAMIN DEFICIENCY"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ANEURYSM"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ANGELMAN SYNDROME"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ANGINA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ANGIOEDEMA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ANGIOEDEMA AND HIVES"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ANIMAL AND HUMAN BITES"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ANKLE SPRAIN"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ANKYLOSING SPONDYLITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ANOREXIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ANOREXIA NERVOSA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ANTIPHOSPHOLIPID SYNDROME"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ANTISOCIAL PERSONALITY DISORDER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ANXIETY DISORDERS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ANXIETY DISORDERS IN CHILDREN"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "AORTIC ANEURYSM"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "AORTIC DISSECTION"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "AORTIC STENOSIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "AORTIC VALVE DISEASE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "AORTIC VALVE REGURGITATION"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "AORTIC VALVE STENOSIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "APHASIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "APPENDICITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "APPENDIX CANCER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ARTERIOSCLEROSIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ARTHRITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ASBESTOSIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ASCARIASIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ASPERGILLOSIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ASTHMA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ASTIGMATISM"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ATAXIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ATHEROSCLEROSIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ATHLETE'S FOOT"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ATOPIC ECZEMA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ATRIAL FIBRILLATION"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ATRIAL SEPTAL DEFECT"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "AUDITORY PROCESSING DISORDER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "AUTISM"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "AUTISM SPECTRUM DISORDER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "AUTOSOMAL DOMINANT POLYCYSTIC KIDNEY DISEASE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "AUTOSOMAL RECESSIVE POLYCYSTIC KIDNEY DISEASE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "AVASCULAR NECROSIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BABESIOSIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BABY ACNE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BACK PAIN"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BACKACHE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BACK PROBLEMS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BACTERAEMIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BACTERAEMIA AND MENINGITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BACTERIAL CONJUNCTIVITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BACTERIAL VAGINOSIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BAKER'S CYST"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BAKER CYST"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BALANCE PROBLEMS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BALANITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BALDNESS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BARTHOLIN'S CYST"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BASAL CELL CARCINOMA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BEDBUGS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BEDSORES"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BED-WETTING"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BEE STING"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BEHÇET'S DISEASE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BELL'S PALSY"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BENIGN ADRENAL TUMORS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BENIGN BRAIN TUMOURS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BENIGN PAROXYSMAL POSITIONAL VERTIGO"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BENIGN PROSTATIC HYPERPLASIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BENIGN PROSTATE ENLARGEMENT"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BILE DUCT CANCER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BILE REFLUX"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BILIARY ATRESIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BINGE DRINKING"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BINGE EATING DISORDER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BIPOLAR DISORDER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BIRD FLU"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BIRTHMARKS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BLACK EYE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BLACK HAIRY TONGUE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BLADDER CANCER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BLADDER PAIN SYNDROME"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BLADDER STONES"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BLEPHARITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BLISTERS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BLOOD CLOTS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BLOOD IN URINE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BLOOD POISONING"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BODY DYSMORPHIC DISORDER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BOILS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BOILS AND CARBUNCLES"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BONE CANCER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BONE CYST"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BONE METASTASIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BONE SPURS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BORDERLINE PERSONALITY DISORDER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BOTULISM"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BOWEL CANCER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BOWEL INCONTINENCE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BOWEL OBSTRUCTION"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BOWEL POLYPS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BOW LEGS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BRAIN ABSCESS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BRAIN ANEURYSM"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BRAIN AVM"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BRAIN DEATH"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BRAIN METASTASES"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BRAIN STEM DEATH"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BRAIN TUMOURS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BREAST ABSCESS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BREAST CANCER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BREAST CANCER IN MEN"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BREAST CANCER IN WOMEN"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BREAST CYSTS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BREATH-HOLDING"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BROKEN ANKLE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BROKEN ARM"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BROKEN COLLARBONE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BROKEN FINGER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BROKEN FOOT"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BROKEN HAND"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BROKEN HEART SYNDROME"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BROKEN HIP"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BROKEN LEG"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BROKEN NOSE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BROKEN RIBS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BROKEN TOE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BROKEN WRIST"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BRONCHIECTASIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BRONCHIOLITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BRONCHITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BRUCELLOSIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BRUGADA SYNDROME"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BUERGER DISEASE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BULIMIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BULIMIA NERVOSA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BULLOUS PEMPHIGOID"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BUNIONS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BURNS AND SCALDS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BURSITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "BURSITIS OF THE KNEE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "C. DIFFICILE COLITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "C. DIFFICILE INFECTION"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CAD"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CALCIFYLAXIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CALCIUM DEFICIENCY"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CANCER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CARBON MONOXIDE POISONING"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CARDIAC ARREST"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CARDIOMYOPATHY"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CARDIOVASCULAR DISEASE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CARPAL TUNNEL SYNDROME"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CATARACTS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CATARACTS IN ADULTS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CATARRH"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CAVERNOMA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CELLULITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CEREBRAL PALSY"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CERVICAL CANCER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CERVICAL SPONDYLOSIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CHARCOT-MARIE-TOOTH DISEASE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CHARLES BONNET SYNDROME"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CHEST INFECTION"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CHIARI MALFORMATION"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CHICKENPOX"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CHILBLAINS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CHLAMYDIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CHOLECYSTITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CHOLESTEATOMA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CHOLERA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CHOLESTEROL HIGH"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CHRONIC FATIGUE SYNDROME"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CHRONIC KIDNEY DISEASE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CHRONIC LYMPHOCYTIC LEUKAEMIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CHRONIC MYELOID LEUKAEMIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD)"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CHRONIC PANCREATITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CIRRHOSIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CLAUSTROPHOBIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CLEFT LIP AND PALATE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CLUBFOOT"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CLUSTER HEADACHES"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "COELIAC DISEASE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "COLD SORES"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "COLIC"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "COLORECTAL CANCER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "COLOUR BLINDNESS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "COMMON COLD"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "COMPARTMENT SYNDROME"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "COMPLEX REGIONAL PAIN SYNDROME"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CONCUSSION"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CONGENITAL HEART DISEASE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CONJUNCTIVITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CONSTIPATION"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CONTACT DERMATITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CORNS AND CALLUSES"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CORONARY ARTERY DISEASE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CORONARY HEART DISEASE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "COVID-19"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CROUP"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CUSHING'S SYNDROME"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CYSTIC FIBROSIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CYSTITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "CYTOMEGALOVIRUS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "DANDRUFF"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "DEAFBLINDNESS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "DEEP VEIN THROMBOSIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "DEGENERATIVE CERVICAL MYELOPATHY"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "DEHYDRATION"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "DEMENTIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "DENGUE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "DENTAL ABSCESS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "DEPRESSION"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "DERMATITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "DETACHED RETINA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "DIABETES"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "DIABETES INSIPIDUS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "DIABETIC KETOACIDOSIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "DIABETIC RETINOPATHY"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "DIARRHEA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "DIPHTHERIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "DISCOID ECZEMA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "DISLOCATED KNEECAP"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "DISLOCATED SHOULDER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "DISSOCIATIVE DISORDERS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "DIVERTICULAR DISEASE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "DIVERTICULITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "DOWN SYNDROME"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "DUPUYTREN'S CONTRACTURE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "DYSTONIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "EAR INFECTION"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "EARACHE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "EARWAX BUILD-UP"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "EATING DISORDERS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "EBOLA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ECTOPIC PREGNANCY"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ECZEMA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "EDWARDS' SYNDROME"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "EHLERS-DANLOS SYNDROMES"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "EJACULATION PROBLEMS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "EMPHYSEMA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ENCEPHALITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ENDOCARDITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ENDOMETRIOSIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ENLARGED PROSTATE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "EPIDERMOLYSIS BULLOSA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "EPIDIDYMITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "EPIGLOTTITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "EPILEPSY"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ERECTILE DYSFUNCTION"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ERYTHEMA MULTIFORME"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ERYTHEMA NODOSUM"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ERYTHROCYTOSIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ERYTHROMELALGIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ESOPHAGEAL CANCER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "EXCESSIVE DAYTIME SLEEPINESS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "FABRICATED OR INDUCED ILLNESS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "FACE BLINDNESS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "FALLS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "FEBRILE SEIZURES"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "FEMALE GENITAL MUTILATION"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "FETAL ALCOHOL SPECTRUM DISORDER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "FIBROIDS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "FIBROMYALGIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "FLU"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "FOOD ALLERGY"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "FOOD POISONING"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "FROZEN SHOULDER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "FUNGAL NAIL INFECTION"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "GALLBLADDER CANCER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "GALLBLADDER INFLAMMATION"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "GALLSTONES"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "GANGLION CYST"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "GANGRENE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "GASTRITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "GASTROENTERITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "GASTROESOPHAGEAL REFLUX DISEASE (GERD)"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "GASTROPARESIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "GENDER DYSPHORIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "GENERALIZED ANXIETY DISORDER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "GENITAL HERPES"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "GENITAL WARTS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "GIARDIASIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "GILBERT'S SYNDROME"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "GLANDULAR FEVER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "GLAUCOMA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "GLOMERULONEPHRITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "GLUE EAR"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "GOITRE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "GONORRHEA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "GOUT"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "GRANULOMA ANNULARE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "GUILLAIN-BARRE SYNDROME"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "GUM DISEASE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "HAEMOCHROMATOSIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "HAEMOPHILIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "HAEMORRHOIDS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "HAIR LOSS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "HAY FEVER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "HEADACHE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "HEART ATTACK"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "HEART FAILURE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "HEPATITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "HERPES"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "HIATAL HERNIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "HIV/AIDS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "HODGKIN'S LYMPHOMA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "HUNTINGTON'S DISEASE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "HYPERTHYROIDISM"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "HYPOTHYROIDISM"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "IBS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "IMPETIGO"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "INFERTILITY"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "INFLUENZA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "IRON DEFICIENCY ANEMIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "JAUNDICE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "JET LAG"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "JOINT HYPERMOBILITY"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "KIDNEY STONES"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "LABOUR INDUCTION"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "LACTOSE INTOLERANCE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "LARYNGITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "LEUKEMIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "LIVER CANCER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "LUNG CANCER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "LYME DISEASE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "LYMPHOMA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "MALARIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "MEASLES"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "MENINGITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "MENOPAUSE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "MIGRAINE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "MULTIPLE SCLEROSIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "MUMPS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "NARColePSY"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "NASAL POLYPS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "NAUSEA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "NECROTIZING FASCIITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "OBESITY"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "OBSESSIVE-COMPULSIVE DISORDER (OCD)"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "OSTEOARTHRITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "OSTEOPOROSIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "OTITIS MEDIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "OVARIAN CANCER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "PANCREATIC CANCER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "PARKINSON'S DISEASE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "PELVIC INFLAMMATORY DISEASE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "PNEUMONIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "POLIO"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "POST-TRAUMATIC STRESS DISORDER (PTSD)"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "PROSTATE CANCER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "PSORIASIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "QUERY FEVER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "RABIES"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "RAYNAUD'S DISEASE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "RHEUMATOID ARTHRITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ROSACEA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "RUBELLA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "SCABIES"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "SCHIZOPHRENIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "SCOLIOSIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "SEPSIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "SHINGLES"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "SICKLE CELL ANEMIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "SINUSITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "SKIN CANCER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "SLEEP APNEA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "STROKE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "SYPHILIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "TETANUS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "THROMBOSIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "THYROID CANCER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "TUBERCULOSIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "TYPHOID FEVER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ULCERATIVE COLITIS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "URINARY TRACT INFECTION (UTI)"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "VARICELLA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "VARICOSE VEINS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "VITILIGO"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "WHOOPING COUGH"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "WILSON'S DISEASE"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "WARTS"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "XEROSTOMIA"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "YELLOW FEVER"
+    }
+  },
+  {
+    "model": "disease.medicalcondition",
+    "fields": {
+      "name": "ZOSTER (HERPES ZOSTER)"
+    }
+  }
+]

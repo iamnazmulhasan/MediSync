@@ -1,0 +1,142 @@
+[
+  {
+    "model": "core.doctortype",
+    "pk": 1,
+    "fields": {
+      "name": "General Physician"
+    }
+  },
+  {
+    "model": "core.doctortype",
+    "pk": 2,
+    "fields": {
+      "name": "Diabetes & Endocrinology"
+    }
+  },
+  {
+    "model": "core.doctortype",
+    "pk": 3,
+    "fields": {
+      "name": "Cardiology"
+    }
+  },
+  {
+    "model": "core.doctortype",
+    "pk": 4,
+    "fields": {
+      "name": "Gastroenterology"
+    }
+  },
+  {
+    "model": "core.doctortype",
+    "pk": 5,
+    "fields": {
+      "name": "Gynecology"
+    }
+  },
+  {
+    "model": "core.doctortype",
+    "pk": 6,
+    "fields": {
+      "name": "Obstetrics"
+    }
+  },
+  {
+    "model": "core.doctortype",
+    "pk": 7,
+    "fields": {
+      "name": "Pediatrics"
+    }
+  },
+  {
+    "model": "core.doctortype",
+    "pk": 8,
+    "fields": {
+      "name": "Orthopedics"
+    }
+  },
+  {
+    "model": "core.doctortype",
+    "pk": 9,
+    "fields": {
+      "name": "Dermatology"
+    }
+  },
+  {
+    "model": "core.doctortype",
+    "pk": 10,
+    "fields": {
+      "name": "ENT"
+    }
+  },
+  {
+    "model": "core.doctortype",
+    "pk": 11,
+    "fields": {
+      "name": "Ophthalmology"
+    }
+  },
+  {
+    "model": "core.doctortype",
+    "pk": 12,
+    "fields": {
+      "name": "Neurology"
+    }
+  },
+  {
+    "model": "core.doctortype",
+    "pk": 13,
+    "fields": {
+      "name": "Psychiatry"
+    }
+  },
+  {
+    "model": "core.doctortype",
+    "pk": 14,
+    "fields": {
+      "name": "Urology"
+    }
+  },
+  {
+    "model": "core.doctortype",
+    "pk": 15,
+    "fields": {
+      "name": "Nephrology"
+    }
+  },
+  {
+    "model": "core.doctortype",
+    "pk": 16,
+    "fields": {
+      "name": "Pulmonology"
+    }
+  },
+  {
+    "model": "core.doctortype",
+    "pk": 17,
+    "fields": {
+      "name": "General Surgery"
+    }
+  },
+  {
+    "model": "core.doctortype",
+    "pk": 18,
+    "fields": {
+      "name": "Dentistry"
+    }
+  },
+  {
+    "model": "core.doctortype",
+    "pk": 19,
+    "fields": {
+      "name": "Oncology"
+    }
+  },
+  {
+    "model": "core.doctortype",
+    "pk": 20,
+    "fields": {
+      "name": "Emergency Medicine"
+    }
+  }
+]
