@@ -1,0 +1,3682 @@
+[
+  {
+    "model": "core.doctorsadvice",
+    "pk": 1,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "পরামর্শ: ডাক্তারের নির্দেশ অনুযায়ী ঠিকভাবে ওষুধ সেবন করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 2,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "পরামর্শ: অ্যান্টিবায়োটিকের সম্পূর্ণ কোর্স শেষ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 3,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "পরামর্শ: জ্বরের সময় শরীরের তাপমাত্রা পর্যবেক্ষণ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 4,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "পরামর্শ: রক্তচাপ ও রক্তে শর্করা নিয়মিত পরীক্ষা করুন (ডাক্তারের পরামর্শ অনুযায়ী)"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 5,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "পরামর্শ: অসুস্থ অবস্থায় নরম ও হালকা খাবার খান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 6,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "পরামর্শ: পর্যাপ্ত বিশ্রাম নিন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 7,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "পরামর্শ: উপসর্গ অব্যাহত থাকলে ফলো-আপ ভিজিটে আসুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 8,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "পরামর্শ: উপসর্গ বেড়ে গেলে দ্রুত জরুরি চিকিৎসা নিন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 9,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "পরামর্শ: পূর্বের চিকিৎসা-রিপোর্টগুলো সংরক্ষণ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 10,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "পরামর্শ: নিয়মিত স্বাস্থ্য পরীক্ষা-নিরীক্ষা করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 11,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "পরামর্শ: ডাক্তারের নির্দেশ অনুযায়ী ওষুধ সেবন করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 12,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "পরামর্শ: FBS, PPBS ও HbA1c নিয়মিত পরীক্ষা করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 13,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "পরামর্শ: ডাক্তারের পরামর্শ অনুযায়ী থাইরয়েড প্রোফাইল পরীক্ষা করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 14,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "পরামর্শ: ডায়েট চার্ট মেনে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 15,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "পরামর্শ: ডায়াবেটিস কার্ড সঙ্গে রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 16,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "পরামর্শ: প্রতিদিন পা পরীক্ষা করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 17,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "পরামর্শ: পায়ের সঠিক পরিচ্ছন্নতা বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 18,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "পরামর্শ: নিয়মিত ফলো-আপ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 19,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "পরামর্শ: জরুরি অবস্থার জন্য চিনি/গ্লুকোজের উৎস সঙ্গে রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 20,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "পরামর্শ: হাইপোগ্লাইসেমিয়ার উপসর্গ হলে দ্রুত জানান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 21,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "পরামর্শ: হৃদরোগের ওষুধ নিয়মিত সেবন করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 22,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "পরামর্শ: বাড়িতে রক্তচাপ পর্যবেক্ষণ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 23,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "পরামর্শ: পালস/নাড়ির গতি পর্যবেক্ষণ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 24,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "পরামর্শ: নিয়মিত কার্ডিওলজি ফলো-আপে আসুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 25,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "পরামর্শ: রক্তে শর্করা নিয়ন্ত্রণে রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 26,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "পরামর্শ: কোলেস্টেরলের মাত্রা নিয়ন্ত্রণে রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 27,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "পরামর্শ: বুকে ব্যথা হলে জরুরি চিকিৎসা নিন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 28,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "পরামর্শ: ডাক্তারের পরামর্শ অনুযায়ী শারীরিক কার্যক্রম বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 29,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "পরামর্শ: পূর্বের ইসিজি (ECG) ও রিপোর্টগুলো সংরক্ষণ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 30,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "পরামর্শ: সময়ে খাবার খান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 31,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "পরামর্শ: খাবার ভালোভাবে চিবিয়ে খান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 32,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "পরামর্শ: খাবারের ডায়েরি রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 33,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "পরামর্শ: ডাক্তারের পরামর্শ অনুযায়ী প্রোবায়োটিক সেবন করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 34,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "পরামর্শ: মলত্যাগের অভ্যাস পর্যবেক্ষণ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 35,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "পরামর্শ: লিভার-বান্ধব খাদ্যাভ্যাস বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 36,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "পরামর্শ: ফলো-আপ ভিজিটে আসুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 37,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "পরামর্শ: চিকিৎসক পরামর্শিত পরীক্ষা-নিরীক্ষা করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 38,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "পরামর্শ: ব্যথা অব্যাহত থাকলে চিকিৎসকের পরামর্শ নিন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 39,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "পরামর্শ: মাসিক/ঋতুচক্রের ক্যালেন্ডার রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 40,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "পরামর্শ: নিয়মিত গাইনী/স্ত্রীরোগ পরীক্ষা করান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 41,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "পরামর্শ: আয়রন ও ক্যালসিয়াম সাপ্লিমেন্ট সেবন করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 42,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "পরামর্শ: নিরাপদ যৌন সম্পর্কের অভ্যাস করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 43,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "পরামর্শ: ব্যক্তিগত পরিচ্ছন্নতা বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 44,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "পরামর্শ: অস্বাভাবিক রক্তপাত হলে চিকিৎসকের পরামর্শ নিন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 45,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "পরামর্শ: ডাক্তারের পরামর্শ অনুযায়ী ফলো-আপ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 46,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "পরামর্শ: চিকিৎসকের পরামর্শ অনুযায়ী প্যাপ স্মিয়ার (Pap smear) পরীক্ষা করান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 47,
+    "fields": {
+      "doctor_type_id": 6,
+      "name": "পরামর্শ: গর্ভাবস্থার ভিটামিন নিয়মিত সেবন করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 48,
+    "fields": {
+      "doctor_type_id": 6,
+      "name": "পরামর্শ: নির্ধারিত ANC (এএনসি) ভিজিটগুলোতে উপস্থিত থাকুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 49,
+    "fields": {
+      "doctor_type_id": 6,
+      "name": "পরামর্শ: রক্তচাপ পর্যবেক্ষণ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 50,
+    "fields": {
+      "doctor_type_id": 6,
+      "name": "পরামর্শ: ডাক্তারের পরামর্শ অনুযায়ী রক্তে শর্করা পর্যবেক্ষণ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 51,
+    "fields": {
+      "doctor_type_id": 6,
+      "name": "পরামর্শ: গর্ভাবস্থার নিয়মিত রুটিন পরীক্ষা-নিরীক্ষা করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 52,
+    "fields": {
+      "doctor_type_id": 6,
+      "name": "পরামর্শ: টিটি (TT) টিকা নিন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 53,
+    "fields": {
+      "doctor_type_id": 6,
+      "name": "পরামর্শ: বাম পাশ ফিরে (লেফট ল্যাটারাল) হয়ে শুয়ুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 54,
+    "fields": {
+      "doctor_type_id": 6,
+      "name": "পরামর্শ: বিপদজনক লক্ষণ দেখা দিলে সাথে সাথে জানান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 55,
+    "fields": {
+      "doctor_type_id": 6,
+      "name": "পরামর্শ: গর্ভাবস্থার রেকর্ড সংরক্ষণ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 56,
+    "fields": {
+      "doctor_type_id": 6,
+      "name": "পরামর্শ: হাসপাতালে/প্রতিষ্ঠানে প্রসবের পরিকল্পনা করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 57,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "পরামর্শ: ডাক্তারের নির্দেশ অনুযায়ী ওষুধ দিন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 58,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "পরামর্শ: চিকিৎসার সম্পূর্ণ কোর্স শেষ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 59,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "পরামর্শ: শরীরের তাপমাত্রা পর্যবেক্ষণ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 60,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "পরামর্শ: খাওয়ানোর ধরণ/ফিডিং প্যাটার্ন পর্যবেক্ষণ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 61,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "পরামর্শ: টিকাদান কার্ড সংরক্ষণ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 62,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "পরামর্শ: ডায়রিয়া হলে ওআরএস ব্যবহার করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 63,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "পরামর্শ: অসুস্থ অবস্থায়ও বুকের দুধ খাওয়ানো চালিয়ে যান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 64,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "পরামর্শ: বৃদ্ধির চার্ট (গ্রোথ চার্ট) অনুসরণ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 65,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "পরামর্শ: নিয়মিত শিশু বিশেষজ্ঞের ফলো-আপে আসুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 66,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "পরামর্শ: অবস্থা খারাপ হলে দ্রুত জরুরি চিকিৎসা নিন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 67,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "পরামর্শ: ডাক্তারের পরামর্শ অনুযায়ী ফিজিওথেরাপি করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 68,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "পরামর্শ: গরম বা ঠান্ডা সেঁক দিন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 69,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "পরামর্শ: প্রয়োজনে জয়েন্ট সাপোর্ট ব্যবহার করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 70,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "পরামর্শ: প্রয়োজন অনুযায়ী দৈনন্দিন কাজকর্ম পরিবর্তন করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 71,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "পরামর্শ: শক্তিবর্ধক ব্যায়াম করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 72,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "পরামর্শ: সঠিক ভঙ্গি (পোশচার) বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 73,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "পরামর্শ: ডাক্তারের পরামর্শ অনুযায়ী ইমেজিং (এক্স-রে/স্ক্যান) করান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 74,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "পরামর্শ: প্রয়োজন হলে হাঁটার সহায়ক (ওয়াকিং এইড) ব্যবহার করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 75,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "পরামর্শ: নির্ধারিত টপিক্যাল ওষুধ ব্যবহার করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 76,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "পরামর্শ: ডাক্তারের পরামর্শ অনুযায়ী ওষুধ সেবন করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 77,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "পরামর্শ: সঠিক স্কিন কেয়ার রুটিন মেনে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 78,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "পরামর্শ: প্রতিদিন সানস্ক্রিন লাগান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 79,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "পরামর্শ: নখ ছোট করে কাটুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 80,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "পরামর্শ: মাথার ত্বক/স্ক্যাল্পের পরিচ্ছন্নতা বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 81,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "পরামর্শ: চিকিৎসার সময়কাল কঠোরভাবে মেনে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 82,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "পরামর্শ: নতুন পণ্য ব্যবহারের আগে প্যাচ টেস্ট করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 83,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "পরামর্শ: কোনো পার্শ্বপ্রতিক্রিয়া হলে জানান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 84,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "পরামর্শ: অ্যান্টিবায়োটিকের সম্পূর্ণ কোর্স শেষ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 85,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "পরামর্শ: কানের ড্রপ সঠিকভাবে ব্যবহার করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 86,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "পরামর্শ: নিয়মিত স্টিম ইনহেলেশন/বাষ্প নিন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 87,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "পরামর্শ: স্যালাইন নেজাল স্প্রে ব্যবহার করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 88,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "পরামর্শ: ডাক্তারের পরামর্শ অনুযায়ী কণ্ঠস্বর বিশ্রাম বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 89,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "পরামর্শ: ইএনটি (ENT) পরীক্ষার সময়সূচি মেনে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 90,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "পরামর্শ: ডাক্তারের পরামর্শ অনুযায়ী শ্রবণ পরীক্ষা (হিয়ারিং টেস্ট) করান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 91,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "পরামর্শ: উপসর্গ বেড়ে গেলে দ্রুত চিকিৎসা নিন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 92,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "পরামর্শ: নির্ধারিত নিয়মে চোখের ড্রপ ব্যবহার করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 93,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "পরামর্শ: হাতের সঠিক পরিচ্ছন্নতা বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 94,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "পরামর্শ: ডাক্তারের পরামর্শ অনুযায়ী কন্ট্যাক্ট লেন্স খুলে ফেলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 95,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "পরামর্শ: চোখের ড্রপ দেওয়ার সময়সূচি কঠোরভাবে মেনে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 96,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "পরামর্শ: নিয়মিত চোখ পরীক্ষা করান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 97,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "পরামর্শ: উজ্জ্বল আলোতে সানগ্লাস ব্যবহার করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 98,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "পরামর্শ: রক্তে শর্করা ও রক্তচাপ (BP) নিয়ন্ত্রণে রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 99,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "পরামর্শ: হঠাৎ দৃষ্টিশক্তির পরিবর্তন হলে দ্রুত জানান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 100,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "পরামর্শ: ডাক্তারের পরামর্শ অনুযায়ী রিফ্র্যাকশন টেস্ট (চশমার পাওয়ার পরীক্ষা) করান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 101,
+    "fields": {
+      "doctor_type_id": 12,
+      "name": "পরামর্শ: মাথাব্যথার ডায়েরি রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 102,
+    "fields": {
+      "doctor_type_id": 12,
+      "name": "পরামর্শ: রক্তচাপ নিয়ন্ত্রণে রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 103,
+    "fields": {
+      "doctor_type_id": 12,
+      "name": "পরামর্শ: নিয়মিত নিউরোলজি ফলো-আপে আসুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 104,
+    "fields": {
+      "doctor_type_id": 12,
+      "name": "পরামর্শ: চিকিৎসক পরামর্শিত নিউরো-ইমেজিং করান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 105,
+    "fields": {
+      "doctor_type_id": 12,
+      "name": "পরামর্শ: স্ট্রোকের উপসর্গ দেখা দিলে জরুরি চিকিৎসা নিন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 106,
+    "fields": {
+      "doctor_type_id": 12,
+      "name": "পরামর্শ: খিঁচুনি/সিজার সতর্কতা মেনে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 107,
+    "fields": {
+      "doctor_type_id": 12,
+      "name": "পরামর্শ: ওষুধ নিয়মিত ও ঠিকভাবে সেবন নিশ্চিত করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 108,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "পরামর্শ: ওষুধ নিয়মিত সেবন করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 109,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "পরামর্শ: সাইকোথেরাপি সেশনগুলোতে উপস্থিত থাকুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 110,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "পরামর্শ: ঘুমের স্বাস্থ্যবিধি (স্লিপ হাইজিন) বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 111,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "পরামর্শ: বিশ্বাসযোগ্য ব্যক্তির সাথে অনুভূতি শেয়ার করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 112,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "পরামর্শ: নিয়মিত ও গঠিত রুটিন মেনে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 113,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "পরামর্শ: আত্মহত্যার চিন্তা হলে জরুরি সাহায্য নিন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 114,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "পরামর্শ: চিকিৎসার নির্ধারিত সময়কাল মেনে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 115,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "পরামর্শ: পার্শ্বপ্রতিক্রিয়া পর্যবেক্ষণ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 116,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "পরামর্শ: পরিবার থেকে সহায়তা নিশ্চিত করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 117,
+    "fields": {
+      "doctor_type_id": 14,
+      "name": "পরামর্শ: পর্যাপ্ত তরল গ্রহণ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 118,
+    "fields": {
+      "doctor_type_id": 14,
+      "name": "পরামর্শ: প্রস্রাবের পরিমাণ পর্যবেক্ষণ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 119,
+    "fields": {
+      "doctor_type_id": 14,
+      "name": "পরামর্শ: প্রস্রাবের রুটিন পরীক্ষা (ইউরিন R/E) করান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 120,
+    "fields": {
+      "doctor_type_id": 14,
+      "name": "পরামর্শ: সময়মতো/নির্দিষ্ট সময় পরপর প্রস্রাব করার অভ্যাস করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 121,
+    "fields": {
+      "doctor_type_id": 14,
+      "name": "পরামর্শ: প্রোস্টেট যত্নের পরামর্শ মেনে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 122,
+    "fields": {
+      "doctor_type_id": 14,
+      "name": "পরামর্শ: প্রস্রাব আটকে গেলে/প্রস্রাব না হলে জরুরি চিকিৎসা নিন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 123,
+    "fields": {
+      "doctor_type_id": 14,
+      "name": "পরামর্শ: যৌনস্বাস্থ্য কাউন্সেলিং চালিয়ে যান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 124,
+    "fields": {
+      "doctor_type_id": 15,
+      "name": "পরামর্শ: নিয়মিত রক্তচাপ পর্যবেক্ষণ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 125,
+    "fields": {
+      "doctor_type_id": 15,
+      "name": "পরামর্শ: নিয়মিত কিডনি ফাংশন টেস্ট করান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 126,
+    "fields": {
+      "doctor_type_id": 15,
+      "name": "পরামর্শ: ডাক্তারের পরামর্শ অনুযায়ী তরল সীমিত করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 127,
+    "fields": {
+      "doctor_type_id": 15,
+      "name": "পরামর্শ: সময়মতো ডায়ালাইসিস সেশনগুলোতে উপস্থিত থাকুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 128,
+    "fields": {
+      "doctor_type_id": 15,
+      "name": "পরামর্শ: ডায়ালাইসিস অ্যাক্সেস (ফিস্টুলা/ক্যাথেটার) এর যত্ন নিন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 129,
+    "fields": {
+      "doctor_type_id": 15,
+      "name": "পরামর্শ: প্রস্রাব কমে গেলে জানান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 130,
+    "fields": {
+      "doctor_type_id": 15,
+      "name": "পরামর্শ: রেনাল/কিডনি ডায়েট চার্ট মেনে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 131,
+    "fields": {
+      "doctor_type_id": 15,
+      "name": "পরামর্শ: নিয়মিত নেফ্রোলজি ফলো-আপে আসুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 132,
+    "fields": {
+      "doctor_type_id": 16,
+      "name": "পরামর্শ: ইনহেলার সঠিকভাবে ব্যবহার করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 133,
+    "fields": {
+      "doctor_type_id": 16,
+      "name": "পরামর্শ: ডাক্তারের পরামর্শ অনুযায়ী স্পেসার ব্যবহার করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 134,
+    "fields": {
+      "doctor_type_id": 16,
+      "name": "পরামর্শ: পিক ফ্লো রেট পর্যবেক্ষণ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 135,
+    "fields": {
+      "doctor_type_id": 16,
+      "name": "পরামর্শ: পালমোনারি ফাংশন টেস্ট (PFT) করান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 136,
+    "fields": {
+      "doctor_type_id": 16,
+      "name": "পরামর্শ: বুকের ফিজিওথেরাপি/চেস্ট ফিজিওথেরাপি করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 137,
+    "fields": {
+      "doctor_type_id": 16,
+      "name": "পরামর্শ: শ্বাসকষ্ট বেড়ে গেলে দ্রুত চিকিৎসা নিন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 138,
+    "fields": {
+      "doctor_type_id": 16,
+      "name": "পরামর্শ: টিকাদানের সময়সূচি বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 139,
+    "fields": {
+      "doctor_type_id": 17,
+      "name": "পরামর্শ: ড্রেসিং সঠিকভাবে বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 140,
+    "fields": {
+      "doctor_type_id": 17,
+      "name": "পরামর্শ: ক্ষতস্থান পরিষ্কার ও শুকনো রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 141,
+    "fields": {
+      "doctor_type_id": 17,
+      "name": "পরামর্শ: অপারেশনের আগে প্রয়োজনীয় পরীক্ষা-নিরীক্ষা করান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 142,
+    "fields": {
+      "doctor_type_id": 17,
+      "name": "পরামর্শ: অপারেশনের আগে না খাওয়ার (ফাস্টিং) নির্দেশনা মেনে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 143,
+    "fields": {
+      "doctor_type_id": 17,
+      "name": "পরামর্শ: অপারেশনের পর দ্রুত চলাফেরা শুরু করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 144,
+    "fields": {
+      "doctor_type_id": 17,
+      "name": "পরামর্শ: সংক্রমণের লক্ষণ দেখা দিলে জানান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 145,
+    "fields": {
+      "doctor_type_id": 17,
+      "name": "পরামর্শ: নির্ধারিত ফলো-আপে আসুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 146,
+    "fields": {
+      "doctor_type_id": 17,
+      "name": "পরামর্শ: খাদ্যাভ্যাস সংক্রান্ত পরামর্শ কঠোরভাবে মেনে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 147,
+    "fields": {
+      "doctor_type_id": 17,
+      "name": "পরামর্শ: তীব্র ব্যথা হলে জরুরি চিকিৎসা নিন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 148,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "পরামর্শ: নরম টুথব্রাশ দিয়ে দাঁত ব্রাশ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 149,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "পরামর্শ: ডাক্তারের পরামর্শ অনুযায়ী মাউথওয়াশ ব্যবহার করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 150,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "পরামর্শ: নিয়মিত ডেন্টাল চেক-আপ করান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 151,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "পরামর্শ: ডাক্তারের পরামর্শ অনুযায়ী স্কেলিং করান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 152,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "পরামর্শ: প্রোসিডিউর/চিকিৎসার পরবর্তী নির্দেশনা মেনে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 153,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "পরামর্শ: ফোলা কমাতে ঠান্ডা সেঁক দিন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 154,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "পরামর্শ: ডেনচার/কৃত্রিম দাঁতের পরিচ্ছন্নতা বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 155,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "পরামর্শ: ব্যথা দীর্ঘদিন থাকলে জানান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 156,
+    "fields": {
+      "doctor_type_id": 19,
+      "name": "পরামর্শ: অনকোলজি চিকিৎসা পরিকল্পনা মেনে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 157,
+    "fields": {
+      "doctor_type_id": 19,
+      "name": "পরামর্শ: নির্ধারিত সময়সূচি অনুযায়ী কেমোথেরাপি নিন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 158,
+    "fields": {
+      "doctor_type_id": 19,
+      "name": "পরামর্শ: সময়মতো রেডিওথেরাপি সেশনগুলোতে উপস্থিত থাকুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 159,
+    "fields": {
+      "doctor_type_id": 19,
+      "name": "পরামর্শ: নিয়মিত রক্তের কাউন্ট পরীক্ষা করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 160,
+    "fields": {
+      "doctor_type_id": 19,
+      "name": "পরামর্শ: চিকিৎসার পার্শ্বপ্রতিক্রিয়া দ্রুত জানান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 161,
+    "fields": {
+      "doctor_type_id": 19,
+      "name": "পরামর্শ: থেরাপির সময় মুখের পরিচ্ছন্নতা বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 162,
+    "fields": {
+      "doctor_type_id": 19,
+      "name": "পরামর্শ: নির্ধারিত নিয়মে বমি প্রতিরোধক (অ্যান্টিইমেটিক) ওষুধ সেবন করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 163,
+    "fields": {
+      "doctor_type_id": 19,
+      "name": "পরামর্শ: ব্যথা নিয়ন্ত্রণের চিকিৎসা/রেজিমেন মেনে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 164,
+    "fields": {
+      "doctor_type_id": 19,
+      "name": "পরামর্শ: জ্বর হলে জরুরি চিকিৎসা নিন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 165,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "পরামর্শ: রোগীকে দ্রুত জরুরি বিভাগে স্থানান্তর করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 166,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "পরামর্শ: এয়ারওয়ে নিশ্চিত করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 167,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "পরামর্শ: শ্বাস-প্রশ্বাস ও রক্তসঞ্চালন বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 168,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "পরামর্শ: আইভি (IV) লাইন স্থাপন করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 169,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "পরামর্শ: গুরুত্বপূর্ণ জীবনচিহ্ন (ভাইটাল সাইন) পর্যবেক্ষণ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 170,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "পরামর্শ: সক্রিয় রক্তপাত নিয়ন্ত্রণ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 171,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "পরামর্শ: সন্দেহজনক ভাঙা অস্থি স্থির/অচল রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 172,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "পরামর্শ: জরুরি ওষুধ প্রদান করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 173,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "পরামর্শ: জরুরি পরীক্ষা-নিরীক্ষার ব্যবস্থা করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 174,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "পরামর্শ: প্রয়োজন অনুযায়ী বিশেষজ্ঞের কাছে রেফার করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 175,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "নিষেধ: নিজে নিজে ওষুধ খাবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 176,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "নিষেধ: প্রেসক্রিপশন ছাড়া অ্যান্টিবায়োটিক খাবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 177,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "নিষেধ: অসুস্থ অবস্থায় জাঙ্ক ফুড এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 178,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "নিষেধ: নির্ধারিত ডোজ বাদ দেবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 179,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "নিষেধ: শ্বাসতন্ত্রের অসুস্থতায় ধূমপান এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 180,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "নিষেধ: জ্বর ৩ দিনের বেশি থাকলে উপেক্ষা করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 181,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "নিষেধ: অতিরিক্ত ব্যথানাশক ওষুধ এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 182,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "নিষেধ: চিকিৎসকের পরামর্শ ছাড়া হঠাৎ করে ওষুধ বন্ধ করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 183,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "নিষেধ: সুস্থ হওয়ার সময় অতিরিক্ত শারীরিক পরিশ্রম এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 184,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "নিষেধ: মিষ্টি পানীয় এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 185,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "নিষেধ: ফাস্ট ফুড এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 186,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "নিষেধ: খাবার বাদ দেবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 187,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "নিষেধ: ইনসুলিন/মুখে খাওয়ার ওষুধ বন্ধ করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 188,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "নিষেধ: ধূমপান এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 189,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "নিষেধ: অ্যালকোহল এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 190,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "নিষেধ: খালি পায়ে হাঁটবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 191,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "নিষেধ: নিজের ইচ্ছেমতো ওষুধের ডোজ পরিবর্তন করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 192,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "নিষেধ: দীর্ঘ সময় উপবাস/না খেয়ে থাকা এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 193,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "নিষেধ: বেশি লবণযুক্ত খাবার এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 194,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "নিষেধ: ভাজাপোড়া খাবার এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 195,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "নিষেধ: লাল মাংস এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 196,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "নিষেধ: হৃদরোগের ওষুধ বাদ দেবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 197,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "নিষেধ: হঠাৎ করে ওষুধ বন্ধ করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 198,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "নিষেধ: অতিরিক্ত শারীরিক পরিশ্রম এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 199,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "নিষেধ: মানসিক চাপ ও উদ্বেগ এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 200,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "নিষেধ: বুকে ব্যথা উপেক্ষা করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 201,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "নিষেধ: ঝাল ও ভাজাপোড়া খাবার এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 202,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "নিষেধ: কার্বনেটেড/গ্যাসযুক্ত পানীয় এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 203,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "নিষেধ: অতিরিক্ত ক্যাফেইন এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 204,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "নিষেধ: খাওয়ার পর সঙ্গে সঙ্গে শোবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 205,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "নিষেধ: NSAID অতিরিক্ত ব্যবহার এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 206,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "নিষেধ: নিজে নিজে ওষুধ খাবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 207,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "নিষেধ: পায়খানায় রক্ত গেলে উপেক্ষা করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 208,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "নিষেধ: অনিরাপদ/সুরক্ষা ছাড়া যৌন সম্পর্ক এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 209,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "নিষেধ: মাসিকের সময় অপরিষ্কার কাপড় ব্যবহার এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 210,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "নিষেধ: যোনি ডুচিং এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 211,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "নিষেধ: অস্বাভাবিক রক্তপাত উপেক্ষা করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 212,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "নিষেধ: অতিরিক্ত ক্যাফেইন এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 213,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "নিষেধ: হরমোনের ওষুধ নিজে নিজে খাবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 214,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "নিষেধ: চিকিৎসকের পরামর্শ নিতে দেরি করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 215,
+    "fields": {
+      "doctor_type_id": 6,
+      "name": "নিষেধ: ভারী জিনিস তোলা এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 216,
+    "fields": {
+      "doctor_type_id": 6,
+      "name": "নিষেধ: কাঁচা বা আধা সেদ্ধ/আধা রান্না খাবার এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 217,
+    "fields": {
+      "doctor_type_id": 6,
+      "name": "নিষেধ: অ্যান্টেনাটাল চেক-আপ (ANC) মিস করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 218,
+    "fields": {
+      "doctor_type_id": 6,
+      "name": "নিষেধ: দীর্ঘক্ষণ দাঁড়িয়ে থাকা এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 219,
+    "fields": {
+      "doctor_type_id": 6,
+      "name": "নিষেধ: অপ্রয়োজনীয় ভ্রমণ এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 220,
+    "fields": {
+      "doctor_type_id": 6,
+      "name": "নিষেধ: যোনিপথে রক্তপাত হলে উপেক্ষা করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 221,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "নিষেধ: অপ্রয়োজনীয় অ্যান্টিবায়োটিক এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 222,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "নিষেধ: জাঙ্ক ফুড এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 223,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "নিষেধ: অপরিষ্কার/অস্বাস্থ্যকর খাবার এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 224,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "নিষেধ: টিকা দিতে দেরি করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 225,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "নিষেধ: অতিরিক্ত খাওয়ানো এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 226,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "নিষেধ: বিপদজনক লক্ষণ উপেক্ষা করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 227,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "নিষেধ: পরামর্শ ছাড়া ঘরোয়া চিকিৎসা/উপায় ব্যবহার করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 228,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "নিষেধ: ভারী ওজন তোলা এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 229,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "নিষেধ: দীর্ঘ সময় বিছানায় বিশ্রাম নেওয়া এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 230,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "নিষেধ: উচ্চ-ঝাঁকুনি/হাই-ইমপ্যাক্ট ব্যায়াম এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 231,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "নিষেধ: হঠাৎ ঝাঁকুনিপূর্ণ নড়াচড়া এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 232,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "নিষেধ: দীর্ঘদিনের ব্যথা উপেক্ষা করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 233,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "নিষেধ: ব্যথা হলে স্কোয়াট/উবু হয়ে বসা এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 234,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "নিষেধ: পা ভাঁজ করে বসা এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 235,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "নিষেধ: ফিজিওথেরাপি আগে থেকে বন্ধ করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 236,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "নিষেধ: ত্বক চুলকানো/খোঁচানো এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 237,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "নিষেধ: ব্যক্তিগত জিনিসপত্র শেয়ার করা এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 238,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "নিষেধ: স্টেরয়েড ক্রিমের অপব্যবহার এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 239,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "নিষেধ: বারবার মুখ স্পর্শ করা এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 240,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "নিষেধ: অতিরিক্ত ধোয়া/ওয়াশিং এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 241,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "নিষেধ: কসমেটিকের অতিরিক্ত/ভুল ব্যবহার এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 242,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "নিষেধ: সুরক্ষা ছাড়া রোদে যাওয়া এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 243,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "নিষেধ: চিকিৎসা অসম্পূর্ণ রেখে আগে থেকে বন্ধ করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 244,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "নিষেধ: ধারালো বস্তু দিয়ে কান পরিষ্কার করা এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 245,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "নিষেধ: নিজে নিজে কানের ড্রপ ব্যবহার করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 246,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "নিষেধ: উচ্চ শব্দের সংস্পর্শ এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 247,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "নিষেধ: গলার সংক্রমণে ঠান্ডা পানীয় এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 248,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "নিষেধ: দীর্ঘদিনের কর্কশতা/ভোঁতা গলা উপেক্ষা করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 249,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "নিষেধ: ইএনটি (ENT) বিশেষজ্ঞ দেখাতে দেরি করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 250,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "নিষেধ: বারবার চোখ স্পর্শ করা এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 251,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "নিষেধ: চোখের কসমেটিক শেয়ার করা এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 252,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "নিষেধ: মেয়াদোত্তীর্ণ চোখের ড্রপ ব্যবহার এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 253,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "নিষেধ: দীর্ঘ সময় স্ক্রিনে তাকিয়ে থাকা এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 254,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "নিষেধ: কন্ট্যাক্ট লেন্স অতিরিক্ত ব্যবহার এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 255,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "নিষেধ: চোখের ব্যথা উপেক্ষা করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 256,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "নিষেধ: ঝাপসা দেখলে গাড়ি চালানো এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 257,
+    "fields": {
+      "doctor_type_id": 12,
+      "name": "নিষেধ: অনিয়মিত ঘুম এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 258,
+    "fields": {
+      "doctor_type_id": 12,
+      "name": "নিষেধ: খিঁচুনির (অ্যান্টি-এপিলেপটিক) ওষুধ বাদ দেবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 259,
+    "fields": {
+      "doctor_type_id": 12,
+      "name": "নিষেধ: হঠাৎ স্নায়বিক সমস্যা/দুর্বলতা হলে উপেক্ষা করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 260,
+    "fields": {
+      "doctor_type_id": 12,
+      "name": "নিষেধ: অতিরিক্ত স্ক্রিনে তাকিয়ে থাকা এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 261,
+    "fields": {
+      "doctor_type_id": 12,
+      "name": "নিষেধ: ডাক্তারের পরামর্শ অনুযায়ী গাড়ি চালানো এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 262,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "নিষেধ: নেশাজাতীয়/রিক্রিয়েশনাল ড্রাগস এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 263,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "নিষেধ: ঘুমের ঘাটতি এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 264,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "নিষেধ: সামাজিক বিচ্ছিন্নতা এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 265,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "নিষেধ: আত্মহত্যার চিন্তা উপেক্ষা করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 266,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "নিষেধ: অতিরিক্ত চাপযুক্ত পরিবেশ এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 267,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "নিষেধ: কলঙ্কবোধ (স্টিগমা) ও একাকীত্ব এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 268,
+    "fields": {
+      "doctor_type_id": 14,
+      "name": "নিষেধ: পানিশূন্যতা এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 269,
+    "fields": {
+      "doctor_type_id": 14,
+      "name": "নিষেধ: দীর্ঘ সময় প্রস্রাব আটকে রাখা এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 270,
+    "fields": {
+      "doctor_type_id": 14,
+      "name": "নিষেধ: বেশি লবণযুক্ত খাদ্য এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 271,
+    "fields": {
+      "doctor_type_id": 14,
+      "name": "নিষেধ: প্রস্রাবে রক্ত গেলে উপেক্ষা করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 272,
+    "fields": {
+      "doctor_type_id": 14,
+      "name": "নিষেধ: ইউরোলজি পরামর্শ নিতে দেরি করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 273,
+    "fields": {
+      "doctor_type_id": 15,
+      "name": "নিষেধ: অতিরিক্ত তরল গ্রহণ এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 274,
+    "fields": {
+      "doctor_type_id": 15,
+      "name": "নিষেধ: ডাক্তারের পরামর্শ অনুযায়ী বেশি পটাশিয়ামযুক্ত খাবার এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 275,
+    "fields": {
+      "doctor_type_id": 15,
+      "name": "নিষেধ: NSAID এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 276,
+    "fields": {
+      "doctor_type_id": 15,
+      "name": "নিষেধ: ডায়ালাইসিস বাদ দেবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 277,
+    "fields": {
+      "doctor_type_id": 15,
+      "name": "নিষেধ: শরীরে ফোলা হলে উপেক্ষা করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 278,
+    "fields": {
+      "doctor_type_id": 16,
+      "name": "নিষেধ: বায়োমাস জ্বালানির ধোঁয়ার সংস্পর্শ এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 279,
+    "fields": {
+      "doctor_type_id": 16,
+      "name": "নিষেধ: উপসর্গ বেড়ে গেলে/এক্সাসারবেশনে ঠান্ডা পানীয় এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 280,
+    "fields": {
+      "doctor_type_id": 16,
+      "name": "নিষেধ: ধুলোবালি ও অ্যালার্জেন এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 281,
+    "fields": {
+      "doctor_type_id": 16,
+      "name": "নিষেধ: ইনহেলারের ডোজ বাদ দেবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 282,
+    "fields": {
+      "doctor_type_id": 16,
+      "name": "নিষেধ: হঠাৎ করে ওষুধ বন্ধ করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 283,
+    "fields": {
+      "doctor_type_id": 16,
+      "name": "নিষেধ: উপসর্গ বেড়ে গেলে (ফ্লেয়ার) কষ্টসাধ্য ব্যায়াম এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 284,
+    "fields": {
+      "doctor_type_id": 16,
+      "name": "নিষেধ: রক্তথুথু/রক্ত কাশি (হেমোপটিসিস) উপেক্ষা করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 285,
+    "fields": {
+      "doctor_type_id": 17,
+      "name": "নিষেধ: পায়খানার সময় অতিরিক্ত জোর দেওয়া এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 286,
+    "fields": {
+      "doctor_type_id": 17,
+      "name": "নিষেধ: অপারেশনের ক্ষতস্থান ভেজাবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 287,
+    "fields": {
+      "doctor_type_id": 17,
+      "name": "নিষেধ: ডাক্তারের পরামর্শ অনুযায়ী অপারেশনে দেরি করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 288,
+    "fields": {
+      "doctor_type_id": 17,
+      "name": "নিষেধ: ব্যথা বাড়লে উপেক্ষা করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 289,
+    "fields": {
+      "doctor_type_id": 17,
+      "name": "নিষেধ: পরামর্শ ছাড়া ড্রেসিং খুলবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 290,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "নিষেধ: ব্যথাযুক্ত পাশে চিবানো এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 291,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "নিষেধ: খুব গরম বা খুব ঠান্ডা খাবার এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 292,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "নিষেধ: তামাকজাত দ্রব্য ব্যবহার এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 293,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "নিষেধ: মাড়ি থেকে রক্তপাত হলে উপেক্ষা করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 294,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "নিষেধ: ডেন্টাল চিকিৎসায় দেরি করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 295,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "নিষেধ: দাঁতে ধারালো বস্তু ব্যবহার করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 296,
+    "fields": {
+      "doctor_type_id": 19,
+      "name": "নিষেধ: কাঁচা বা অস্বাস্থ্যকর খাবার এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 297,
+    "fields": {
+      "doctor_type_id": 19,
+      "name": "নিষেধ: চিকিৎসার সেশনগুলো বাদ দেবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 298,
+    "fields": {
+      "doctor_type_id": 19,
+      "name": "নিষেধ: পরীক্ষা-নিরীক্ষায় দেরি করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 299,
+    "fields": {
+      "doctor_type_id": 19,
+      "name": "নিষেধ: সংক্রমণের সংস্পর্শ এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 300,
+    "fields": {
+      "doctor_type_id": 19,
+      "name": "নিষেধ: রক্তপাত উপেক্ষা করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 301,
+    "fields": {
+      "doctor_type_id": 19,
+      "name": "নিষেধ: থেরাপি হঠাৎ করে বন্ধ করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 302,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "নিষেধ: জরুরি চিকিৎসায় দেরি করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 303,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "নিষেধ: অপ্রয়োজনীয় নড়াচড়া এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 304,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "নিষেধ: অচেতন রোগীকে মুখে কিছু খাওয়াবেন/পান করাবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 305,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "নিষেধ: গেঁথে থাকা বস্তু টেনে বের করার চেষ্টা করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 306,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "নিষেধ: রোগীকে একা ছেড়ে দেবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 307,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "নিষেধ: রেফার করতে দেরি করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 308,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "নিষেধ: ভাইটাল সাইন অস্থিতিশীল হলে উপেক্ষা করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 309,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "নিষেধ: অপ্রয়োজনীয় প্রোসিডিউর এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 310,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "নিষেধ: অস্থিতিশীল রোগীকে ডিসচার্জ দেবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 311,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "জীবনযাপন: নিয়মিত ঘুম বজায় রাখুন (প্রতিদিন ৭–৮ ঘণ্টা)"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 312,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "জীবনযাপন: পর্যাপ্ত পানি পান করুন (নিষেধ না থাকলে প্রতিদিন ২.৫–৩ লিটার)"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 313,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "জীবনযাপন: সুষম খাবার খান (ভাত/রুটি, শাকসবজি, প্রোটিন)"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 314,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "জীবনযাপন: অতিরিক্ত তেল, লবণ ও চিনি এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 315,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "জীবনযাপন: নিয়মিত শারীরিক ব্যায়াম করুন (প্রতিদিন ৩০ মিনিট হাঁটা)"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 316,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "জীবনযাপন: ব্যক্তিগত পরিচ্ছন্নতা বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 317,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "জীবনযাপন: ধূমপান ও তামাকজাত দ্রব্য এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 318,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "জীবনযাপন: অ্যালকোহল গ্রহণ সীমিত করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 319,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "জীবনযাপন: মানসিক চাপ নিয়ন্ত্রণ করুন (প্রার্থনা, রিল্যাক্সেশন, হালকা ব্যায়াম)"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 320,
+    "fields": {
+      "doctor_type_id": 1,
+      "name": "জীবনযাপন: বয়স অনুযায়ী টিকাদানের সময়সূচি মেনে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 321,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "জীবনযাপন: ডায়াবেটিস-বান্ধব খাদ্যাভ্যাস মেনে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 322,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "জীবনযাপন: অল্প অল্প করে বারবার খাবার খান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 323,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "জীবনযাপন: চিনি ও পরিশোধিত কার্বোহাইড্রেট কমান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 324,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "জীবনযাপন: আঁশযুক্ত খাবার (ফাইবার) বেশি খান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 325,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "জীবনযাপন: নিয়মিত শারীরিক ব্যায়াম করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 326,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "জীবনযাপন: আদর্শ ওজন বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 327,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "জীবনযাপন: নিয়মিত রক্তে শর্করা পর্যবেক্ষণ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 328,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "জীবনযাপন: সময়ে খাবার খান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 329,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "জীবনযাপন: মানসিক চাপ নিয়ন্ত্রণ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 330,
+    "fields": {
+      "doctor_type_id": 2,
+      "name": "জীবনযাপন: পর্যাপ্ত ঘুম নিশ্চিত করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 331,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "জীবনযাপন: কম লবণযুক্ত খাবার মেনে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 332,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "জীবনযাপন: তেলযুক্ত খাবার কম খান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 333,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "জীবনযাপন: স্যাচুরেটেড ফ্যাট এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 334,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "জীবনযাপন: স্বাস্থ্যকর ওজন বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 335,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "জীবনযাপন: নিয়মিত এরোবিক ব্যায়াম করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 336,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "জীবনযাপন: ধূমপান বন্ধ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 337,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "জীবনযাপন: অ্যালকোহল এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 338,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "জীবনযাপন: মানসিক চাপ নিয়ন্ত্রণ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 339,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "জীবনযাপন: নিয়মিত ঘুম বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 340,
+    "fields": {
+      "doctor_type_id": 3,
+      "name": "জীবনযাপন: নিয়মিত রক্তচাপ পর্যবেক্ষণ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 341,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "জীবনযাপন: ঝাল খাবার এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 342,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "জীবনযাপন: তেলযুক্ত খাবার এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 343,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "জীবনযাপন: বাইরের খাবার এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 344,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "জীবনযাপন: খাদ্যতালিকায় আঁশ (ফাইবার) বাড়ান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 345,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "জীবনযাপন: পর্যাপ্ত পানি পান করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 346,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "জীবনযাপন: রাতের খাবার খুব দেরিতে খাওয়া এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 347,
+    "fields": {
+      "doctor_type_id": 4,
+      "name": "জীবনযাপন: ধূমপান এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 348,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "জীবনযাপন: মাসিকের পরিচ্ছন্নতা বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 349,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "জীবনযাপন: পরিষ্কার স্যানিটারি পণ্য ব্যবহার করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 350,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "জীবনযাপন: আয়রনসমৃদ্ধ খাবার খান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 351,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "জীবনযাপন: সুষম খাদ্য গ্রহণ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 352,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "জীবনযাপন: যৌনাঙ্গের পরিচ্ছন্নতা বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 353,
+    "fields": {
+      "doctor_type_id": 5,
+      "name": "জীবনযাপন: অতিরিক্ত মানসিক চাপ এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 354,
+    "fields": {
+      "doctor_type_id": 6,
+      "name": "জীবনযাপন: পর্যাপ্ত বিশ্রাম নিন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 355,
+    "fields": {
+      "doctor_type_id": 6,
+      "name": "জীবনযাপন: সুষম ও পুষ্টিকর খাবার খান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 356,
+    "fields": {
+      "doctor_type_id": 6,
+      "name": "জীবনযাপন: আয়রনসমৃদ্ধ খাবার খান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 357,
+    "fields": {
+      "doctor_type_id": 6,
+      "name": "জীবনযাপন: ফলিক অ্যাসিড নিয়মিত সেবন করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 358,
+    "fields": {
+      "doctor_type_id": 6,
+      "name": "জীবনযাপন: ভারী কাজ এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 359,
+    "fields": {
+      "doctor_type_id": 6,
+      "name": "জীবনযাপন: হালকা শারীরিক কার্যক্রম করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 360,
+    "fields": {
+      "doctor_type_id": 6,
+      "name": "জীবনযাপন: নিয়মিত অ্যান্টেনাটাল (ANC) ভিজিটে আসুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 361,
+    "fields": {
+      "doctor_type_id": 6,
+      "name": "জীবনযাপন: গর্ভের শিশুর নড়াচড়া পর্যবেক্ষণ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 362,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "জীবনযাপন: শুধু বুকের দুধ খাওয়ানো নিশ্চিত করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 363,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "জীবনযাপন: যথাযথ পুষ্টি বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 364,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "জীবনযাপন: টিকাদানের সময়সূচি মেনে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 365,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "জীবনযাপন: হাতের পরিচ্ছন্নতা বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 366,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "জীবনযাপন: নিরাপদ পানীয় পানি নিশ্চিত করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 367,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "জীবনযাপন: শারীরিক কার্যক্রমে উৎসাহ দিন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 368,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "জীবনযাপন: পরিষ্কার পরিবেশ বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 369,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "জীবনযাপন: শিশুর বৃদ্ধি নিয়মিত পর্যবেক্ষণ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 370,
+    "fields": {
+      "doctor_type_id": 7,
+      "name": "জীবনযাপন: অসুস্থ ব্যক্তির সংস্পর্শ এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 371,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "জীবনযাপন: সঠিক ভঙ্গি (পোশচার) বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 372,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "জীবনযাপন: দীর্ঘ সময় বসে থাকা এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 373,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "জীবনযাপন: নিয়মিত স্ট্রেচিং ব্যায়াম করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 374,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "জীবনযাপন: এরগোনমিক চেয়ার ব্যবহার করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 375,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "জীবনযাপন: লো-ইমপ্যাক্ট ব্যায়াম করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 376,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "জীবনযাপন: হঠাৎ করে ভারী জিনিস তোলা এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 377,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "জীবনযাপন: আরামদায়ক/সাপোর্টিভ জুতা ব্যবহার করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 378,
+    "fields": {
+      "doctor_type_id": 8,
+      "name": "জীবনযাপন: গরম সেঁক দিন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 379,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "জীবনযাপন: ত্বকের পরিচ্ছন্নতা বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 380,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "জীবনযাপন: ত্বক পরিষ্কার ও শুকনো রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 381,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "জীবনযাপন: মাইল্ড/হালকা সাবান ব্যবহার করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 382,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "জীবনযাপন: ত্বকের জন্য ক্ষতিকর/হার্শ কসমেটিক পণ্য এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 383,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "জীবনযাপন: নিয়মিত ময়েশ্চারাইজার ব্যবহার করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 384,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "জীবনযাপন: অতিরিক্ত রোদে থাকার থেকে বিরত থাকুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 385,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "জীবনযাপন: সানস্ক্রিন ব্যবহার করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 386,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "জীবনযাপন: সুষম খাদ্য বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 387,
+    "fields": {
+      "doctor_type_id": 9,
+      "name": "জীবনযাপন: মানসিক চাপ এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 388,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "জীবনযাপন: কানের পরিচ্ছন্নতা বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 389,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "জীবনযাপন: কানে পানি ঢোকা এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 390,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "জীবনযাপন: ধুলোবালিযুক্ত পরিবেশে মাস্ক ব্যবহার করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 391,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "জীবনযাপন: নাকের পরিচ্ছন্নতা বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 392,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "জীবনযাপন: ঠান্ডা বাতাসের সংস্পর্শ এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 393,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "জীবনযাপন: গরম পানি/উষ্ণ তরল পান করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 394,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "জীবনযাপন: স্টিম ইনহেলেশন/বাষ্প নিন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 395,
+    "fields": {
+      "doctor_type_id": 10,
+      "name": "জীবনযাপন: পর্যাপ্ত পানি/তরল গ্রহণ নিশ্চিত করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 396,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "জীবনযাপন: চোখের পরিচ্ছন্নতা বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 397,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "জীবনযাপন: চোখ ঘষা এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 398,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "জীবনযাপন: সুরক্ষামূলক চশমা ব্যবহার করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 399,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "জীবনযাপন: স্ক্রিন থেকে নিয়মিত বিরতি নিন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 400,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "জীবনযাপন: পর্যাপ্ত আলো নিশ্চিত করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 401,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "জীবনযাপন: ২০-২০-২০ নিয়ম মেনে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 402,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "জীবনযাপন: চোখ মুছতে পরিষ্কার তোয়ালে ব্যবহার করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 403,
+    "fields": {
+      "doctor_type_id": 11,
+      "name": "জীবনযাপন: ভিটামিন-এ সমৃদ্ধ খাবার অন্তর্ভুক্ত করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 404,
+    "fields": {
+      "doctor_type_id": 12,
+      "name": "জীবনযাপন: নিয়মিত ঘুমের সময়সূচি বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 405,
+    "fields": {
+      "doctor_type_id": 12,
+      "name": "জীবনযাপন: ঘুমের ঘাটতি এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 406,
+    "fields": {
+      "doctor_type_id": 12,
+      "name": "জীবনযাপন: মাথাব্যথা বাড়ায় এমন পরিচিত ট্রিগার এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 407,
+    "fields": {
+      "doctor_type_id": 12,
+      "name": "জীবনযাপন: স্বাস্থ্যকর খাদ্যাভ্যাস বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 408,
+    "fields": {
+      "doctor_type_id": 12,
+      "name": "জীবনযাপন: স্ক্রিন টাইম সীমিত করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 409,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "জীবনযাপন: নিয়মিত ঘুমের রুটিন বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 410,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "জীবনযাপন: মানসিক চাপ ব্যবস্থাপনার অভ্যাস করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 411,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "জীবনযাপন: নিয়মিত শারীরিক ব্যায়াম করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 412,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "জীবনযাপন: প্রতিদিন গঠিত/পরিকল্পিত কার্যক্রম বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 413,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "জীবনযাপন: সামাজিক বিচ্ছিন্নতা এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 414,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "জীবনযাপন: মাদক/নেশাজাতীয় দ্রব্যের অপব্যবহার এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 415,
+    "fields": {
+      "doctor_type_id": 13,
+      "name": "জীবনযাপন: রিল্যাক্সেশন কৌশলগুলো চর্চা করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 416,
+    "fields": {
+      "doctor_type_id": 14,
+      "name": "জীবনযাপন: পর্যাপ্ত পানি/তরল গ্রহণ বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 417,
+    "fields": {
+      "doctor_type_id": 14,
+      "name": "জীবনযাপন: প্রস্রাব চেপে রাখা এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 418,
+    "fields": {
+      "doctor_type_id": 14,
+      "name": "জীবনযাপন: লবণ গ্রহণ সীমিত করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 419,
+    "fields": {
+      "doctor_type_id": 14,
+      "name": "জীবনযাপন: প্রাণিজ প্রোটিন কম খান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 420,
+    "fields": {
+      "doctor_type_id": 15,
+      "name": "জীবনযাপন: কিডনি-বান্ধব খাদ্যাভ্যাস মেনে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 421,
+    "fields": {
+      "doctor_type_id": 15,
+      "name": "জীবনযাপন: লবণ গ্রহণ সীমিত করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 422,
+    "fields": {
+      "doctor_type_id": 15,
+      "name": "জীবনযাপন: ডাক্তারের পরামর্শ অনুযায়ী প্রোটিন সীমিত করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 423,
+    "fields": {
+      "doctor_type_id": 15,
+      "name": "জীবনযাপন: তরল গ্রহণের পরিমাণ পর্যবেক্ষণ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 424,
+    "fields": {
+      "doctor_type_id": 15,
+      "name": "জীবনযাপন: NSAID ব্যবহার এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 425,
+    "fields": {
+      "doctor_type_id": 15,
+      "name": "জীবনযাপন: রক্তচাপ নিয়ন্ত্রণে রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 426,
+    "fields": {
+      "doctor_type_id": 15,
+      "name": "জীবনযাপন: রক্তে শর্করা নিয়ন্ত্রণে রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 427,
+    "fields": {
+      "doctor_type_id": 16,
+      "name": "জীবনযাপন: পরোক্ষ ধূমপান (সেকেন্ডহ্যান্ড স্মোক) এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 428,
+    "fields": {
+      "doctor_type_id": 16,
+      "name": "জীবনযাপন: ধুলোবালির সংস্পর্শ এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 429,
+    "fields": {
+      "doctor_type_id": 16,
+      "name": "জীবনযাপন: দূষিত এলাকায় মাস্ক ব্যবহার করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 430,
+    "fields": {
+      "doctor_type_id": 16,
+      "name": "জীবনযাপন: শ্বাস-প্রশ্বাসের ব্যায়াম করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 431,
+    "fields": {
+      "doctor_type_id": 16,
+      "name": "জীবনযাপন: বছরে একবার ফ্লু টিকা নিন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 432,
+    "fields": {
+      "doctor_type_id": 16,
+      "name": "জীবনযাপন: ঠান্ডা বাতাসের সংস্পর্শ এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 433,
+    "fields": {
+      "doctor_type_id": 17,
+      "name": "জীবনযাপন: ক্ষতস্থানের পরিচ্ছন্নতা বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 434,
+    "fields": {
+      "doctor_type_id": 17,
+      "name": "জীবনযাপন: প্রোটিনসমৃদ্ধ খাবার খান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 435,
+    "fields": {
+      "doctor_type_id": 17,
+      "name": "জীবনযাপন: ভারী জিনিস তোলা এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 436,
+    "fields": {
+      "doctor_type_id": 17,
+      "name": "জীবনযাপন: মলত্যাগ নিয়মিত রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 437,
+    "fields": {
+      "doctor_type_id": 17,
+      "name": "জীবনযাপন: অপারেশনের পরবর্তী নির্দেশনা মেনে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 438,
+    "fields": {
+      "doctor_type_id": 17,
+      "name": "জীবনযাপন: ফলো-আপ ভিজিটে আসুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 439,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "জীবনযাপন: মুখের পরিচ্ছন্নতা বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 440,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "জীবনযাপন: প্রতিদিন দুইবার দাঁত ব্রাশ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 441,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "জীবনযাপন: ফ্লুরাইডযুক্ত টুথপেস্ট ব্যবহার করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 442,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "জীবনযাপন: নিয়মিত ফ্লস করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 443,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "জীবনযাপন: খাবারের পর মুখ কুলি করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 444,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "জীবনযাপন: মিষ্টি খাবার এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 445,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "জীবনযাপন: আঠালো খাবার এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 446,
+    "fields": {
+      "doctor_type_id": 18,
+      "name": "জীবনযাপন: অ্যালকোহল গ্রহণ সীমিত করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 447,
+    "fields": {
+      "doctor_type_id": 19,
+      "name": "জীবনযাপন: সুষম ও পুষ্টিকর খাদ্য বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 448,
+    "fields": {
+      "doctor_type_id": 19,
+      "name": "জীবনযাপন: প্রোটিনসমৃদ্ধ খাবার খান"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 449,
+    "fields": {
+      "doctor_type_id": 19,
+      "name": "জীবনযাপন: সংক্রমণের সংস্পর্শ এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 450,
+    "fields": {
+      "doctor_type_id": 19,
+      "name": "জীবনযাপন: ইতিবাচক মানসিক স্বাস্থ্য বজায় রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 451,
+    "fields": {
+      "doctor_type_id": 19,
+      "name": "জীবনযাপন: চিকিৎসার সময়সূচি কঠোরভাবে মেনে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 452,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "জীবনযাপন: তাৎক্ষণিক জরুরি চিকিৎসা নিন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 453,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "জীবনযাপন: হাসপাতালে পৌঁছাতে দেরি করবেন না"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 454,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "জীবনযাপন: জরুরি যোগাযোগ তালিকা প্রস্তুত/সংরক্ষণ করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 455,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "জীবনযাপন: প্রাথমিক চিকিৎসা শিখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 456,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "জীবনযাপন: সিট বেল্ট ব্যবহার করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 457,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "জীবনযাপন: হেলমেট ব্যবহার করুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 458,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "জীবনযাপন: বেপরোয়া গাড়ি চালানো এড়িয়ে চলুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 459,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "জীবনযাপন: দীর্ঘমেয়াদি রোগগুলো নিয়ন্ত্রণে রাখুন"
+    }
+  },
+  {
+    "model": "core.doctorsadvice",
+    "pk": 460,
+    "fields": {
+      "doctor_type_id": 20,
+      "name": "জীবনযাপন: নিরাপত্তা ব্যবস্থা মেনে চলুন"
+    }
+  }
+]

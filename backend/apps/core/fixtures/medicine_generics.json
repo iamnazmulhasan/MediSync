@@ -1,0 +1,681 @@
+[
+  {
+    "model": "core.medicinegeneric",
+    "pk": 1,
+    "fields": {
+      "name": "Paracetamol"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 2,
+    "fields": {
+      "name": "Ibuprofen"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 3,
+    "fields": {
+      "name": "Diclofenac"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 4,
+    "fields": {
+      "name": "Aceclofenac"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 5,
+    "fields": {
+      "name": "Naproxen"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 6,
+    "fields": {
+      "name": "Ketorolac"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 7,
+    "fields": {
+      "name": "Tramadol"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 8,
+    "fields": {
+      "name": "Omeprazole"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 9,
+    "fields": {
+      "name": "Esomeprazole"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 10,
+    "fields": {
+      "name": "Pantoprazole"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 11,
+    "fields": {
+      "name": "Ranitidine"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 12,
+    "fields": {
+      "name": "Famotidine"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 13,
+    "fields": {
+      "name": "Amoxicillin"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 14,
+    "fields": {
+      "name": "Amoxicillin + Clavulanic Acid"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 15,
+    "fields": {
+      "name": "Azithromycin"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 16,
+    "fields": {
+      "name": "Cefixime"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 17,
+    "fields": {
+      "name": "Ceftriaxone"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 18,
+    "fields": {
+      "name": "Ciprofloxacin"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 19,
+    "fields": {
+      "name": "Metronidazole"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 20,
+    "fields": {
+      "name": "Doxycycline"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 21,
+    "fields": {
+      "name": "Cetirizine"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 22,
+    "fields": {
+      "name": "Loratadine"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 23,
+    "fields": {
+      "name": "Fexofenadine"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 24,
+    "fields": {
+      "name": "Montelukast"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 25,
+    "fields": {
+      "name": "Salbutamol"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 26,
+    "fields": {
+      "name": "Bromhexine"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 27,
+    "fields": {
+      "name": "Dextromethorphan"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 28,
+    "fields": {
+      "name": "Metformin"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 29,
+    "fields": {
+      "name": "Glibenclamide"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 30,
+    "fields": {
+      "name": "Insulin Glargine"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 31,
+    "fields": {
+      "name": "Amlodipine"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 32,
+    "fields": {
+      "name": "Losartan"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 33,
+    "fields": {
+      "name": "Atenolol"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 34,
+    "fields": {
+      "name": "Furosemide"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 35,
+    "fields": {
+      "name": "Aspirin"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 36,
+    "fields": {
+      "name": "Clopidogrel"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 37,
+    "fields": {
+      "name": "Atorvastatin"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 38,
+    "fields": {
+      "name": "Rosuvastatin"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 39,
+    "fields": {
+      "name": "Baclofen"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 40,
+    "fields": {
+      "name": "Ondansetron"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 41,
+    "fields": {
+      "name": "Albendazole"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 42,
+    "fields": {
+      "name": "Mebendazole"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 43,
+    "fields": {
+      "name": "Ivermectin"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 44,
+    "fields": {
+      "name": "Fluconazole"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 45,
+    "fields": {
+      "name": "Ketoconazole"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 46,
+    "fields": {
+      "name": "Clotrimazole"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 47,
+    "fields": {
+      "name": "Prednisolone"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 48,
+    "fields": {
+      "name": "Dexamethasone"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 49,
+    "fields": {
+      "name": "Hydrocortisone"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 50,
+    "fields": {
+      "name": "Betnovate (Betamethasone)"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 51,
+    "fields": {
+      "name": "Levothyroxine"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 52,
+    "fields": {
+      "name": "Levetiracetam"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 53,
+    "fields": {
+      "name": "Phenytoin"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 54,
+    "fields": {
+      "name": "Sodium Valproate"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 55,
+    "fields": {
+      "name": "Phenobarbitone"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 56,
+    "fields": {
+      "name": "Carbamazepine"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 57,
+    "fields": {
+      "name": "Diazepam"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 58,
+    "fields": {
+      "name": "Lorazepam"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 59,
+    "fields": {
+      "name": "Amitriptyline"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 60,
+    "fields": {
+      "name": "Fluoxetine"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 61,
+    "fields": {
+      "name": "Sertraline"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 62,
+    "fields": {
+      "name": "Haloperidol"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 63,
+    "fields": {
+      "name": "Risperidone"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 64,
+    "fields": {
+      "name": "Olanzapine"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 65,
+    "fields": {
+      "name": "Quetiapine"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 66,
+    "fields": {
+      "name": "Domperidone"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 67,
+    "fields": {
+      "name": "Metoclopramide"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 68,
+    "fields": {
+      "name": "Hyoscine Butylbromide"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 69,
+    "fields": {
+      "name": "Dicycloverine"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 70,
+    "fields": {
+      "name": "Simethicone"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 71,
+    "fields": {
+      "name": "Lactulose"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 72,
+    "fields": {
+      "name": "Magnesium Hydroxide"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 73,
+    "fields": {
+      "name": "Bisacodyl"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 74,
+    "fields": {
+      "name": "ORS"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 75,
+    "fields": {
+      "name": "Vitamin C"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 76,
+    "fields": {
+      "name": "Vitamin B-Complex"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 77,
+    "fields": {
+      "name": "Calcium + Vitamin D"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 78,
+    "fields": {
+      "name": "Iron (Ferrous Sulphate)"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 79,
+    "fields": {
+      "name": "Zinc"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 80,
+    "fields": {
+      "name": "Insulin Regular"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 81,
+    "fields": {
+      "name": "Clotrimazole Vaginal"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 82,
+    "fields": {
+      "name": "Acyclovir"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 83,
+    "fields": {
+      "name": "Betahistine"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 84,
+    "fields": {
+      "name": "Meclizine"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 85,
+    "fields": {
+      "name": "Propranolol"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 86,
+    "fields": {
+      "name": "Digoxin"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 87,
+    "fields": {
+      "name": "Warfarin"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 88,
+    "fields": {
+      "name": "Enoxaparin"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 89,
+    "fields": {
+      "name": "Heparin"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 90,
+    "fields": {
+      "name": "Gentamicin"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 91,
+    "fields": {
+      "name": "Amikacin"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 92,
+    "fields": {
+      "name": "Cefuroxime"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 93,
+    "fields": {
+      "name": "Linezolid"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 94,
+    "fields": {
+      "name": "Trimebutine"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 95,
+    "fields": {
+      "name": "Ursodeoxycholic Acid"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 96,
+    "fields": {
+      "name": "Allopurinol"
+    }
+  },
+  {
+    "model": "core.medicinegeneric",
+    "pk": 97,
+    "fields": {
+      "name": "Finasteride"
+    }
+  }
+]

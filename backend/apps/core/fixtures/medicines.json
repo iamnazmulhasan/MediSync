@@ -1,0 +1,5002 @@
+[
+  {
+    "model": "core.medicine",
+    "pk": 1,
+    "fields": {
+      "name": "Napa 500 mg",
+      "generic": 1,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 2,
+    "fields": {
+      "name": "Napa-Extra 500 mg",
+      "generic": 1,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 3,
+    "fields": {
+      "name": "Ace 500 mg",
+      "generic": 1,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 4,
+    "fields": {
+      "name": "Paracil 500 mg",
+      "generic": 1,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 5,
+    "fields": {
+      "name": "Fast 500 mg",
+      "generic": 1,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 6,
+    "fields": {
+      "name": "Brufen 400 mg",
+      "generic": 2,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 7,
+    "fields": {
+      "name": "Ibufen 400 mg",
+      "generic": 2,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 8,
+    "fields": {
+      "name": "Fenbid 400 mg",
+      "generic": 2,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 9,
+    "fields": {
+      "name": "Reumafen 400 mg",
+      "generic": 2,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 10,
+    "fields": {
+      "name": "Ibu 400 mg",
+      "generic": 2,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 11,
+    "fields": {
+      "name": "Voltaren 50 mg",
+      "generic": 3,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 12,
+    "fields": {
+      "name": "Diclac 50 mg",
+      "generic": 3,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 13,
+    "fields": {
+      "name": "Fenac 50 mg",
+      "generic": 3,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 14,
+    "fields": {
+      "name": "Voveran 50 mg",
+      "generic": 3,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 15,
+    "fields": {
+      "name": "Dicloflex 50 mg",
+      "generic": 3,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 16,
+    "fields": {
+      "name": "Ace 100 mg",
+      "generic": 4,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 17,
+    "fields": {
+      "name": "Airtal 100 mg",
+      "generic": 4,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 18,
+    "fields": {
+      "name": "Aclo 100 mg",
+      "generic": 4,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 19,
+    "fields": {
+      "name": "Acebid 100 mg",
+      "generic": 4,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 20,
+    "fields": {
+      "name": "Acepain 100 mg",
+      "generic": 4,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 21,
+    "fields": {
+      "name": "Naprosyn 500 mg",
+      "generic": 5,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 22,
+    "fields": {
+      "name": "Synflex 500 mg",
+      "generic": 5,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 23,
+    "fields": {
+      "name": "Pronex 500 mg",
+      "generic": 5,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 24,
+    "fields": {
+      "name": "Naxen 500 mg",
+      "generic": 5,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 25,
+    "fields": {
+      "name": "Napryn 500 mg",
+      "generic": 5,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 26,
+    "fields": {
+      "name": "Torolac 10 mg",
+      "generic": 6,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 27,
+    "fields": {
+      "name": "Dolac 10 mg",
+      "generic": 6,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 28,
+    "fields": {
+      "name": "Ketanov 10 mg",
+      "generic": 6,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 29,
+    "fields": {
+      "name": "Ketorol 10 mg",
+      "generic": 6,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 30,
+    "fields": {
+      "name": "Toradol 30 mg/ml",
+      "generic": 6,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 31,
+    "fields": {
+      "name": "Tramal 50 mg",
+      "generic": 7,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 32,
+    "fields": {
+      "name": "Tradol 50 mg",
+      "generic": 7,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 33,
+    "fields": {
+      "name": "Dolotram 50 mg",
+      "generic": 7,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 34,
+    "fields": {
+      "name": "Tramol 50 mg",
+      "generic": 7,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 35,
+    "fields": {
+      "name": "Tramazac 50 mg",
+      "generic": 7,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 36,
+    "fields": {
+      "name": "Losec 20 mg",
+      "generic": 8,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 37,
+    "fields": {
+      "name": "Seclo 20 mg",
+      "generic": 8,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 38,
+    "fields": {
+      "name": "Omez 20 mg",
+      "generic": 8,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 39,
+    "fields": {
+      "name": "Omidon 20 mg",
+      "generic": 8,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 40,
+    "fields": {
+      "name": "Ose 20 mg",
+      "generic": 8,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 41,
+    "fields": {
+      "name": "Nexium 20 mg",
+      "generic": 9,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 42,
+    "fields": {
+      "name": "Esonix 20 mg",
+      "generic": 9,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 43,
+    "fields": {
+      "name": "Esoral 20 mg",
+      "generic": 9,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 44,
+    "fields": {
+      "name": "Esomep 20 mg",
+      "generic": 9,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 45,
+    "fields": {
+      "name": "Zolium 20 mg",
+      "generic": 9,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 46,
+    "fields": {
+      "name": "Pantonix 40 mg",
+      "generic": 10,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 47,
+    "fields": {
+      "name": "Protonix 40 mg",
+      "generic": 10,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 48,
+    "fields": {
+      "name": "Pantosec 40 mg",
+      "generic": 10,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 49,
+    "fields": {
+      "name": "Pansec 40 mg",
+      "generic": 10,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 50,
+    "fields": {
+      "name": "Pantoloc 40 mg",
+      "generic": 10,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 51,
+    "fields": {
+      "name": "Zantac 150 mg",
+      "generic": 11,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 52,
+    "fields": {
+      "name": "Rani 150 mg",
+      "generic": 11,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 53,
+    "fields": {
+      "name": "Histac 150 mg",
+      "generic": 11,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 54,
+    "fields": {
+      "name": "Rantac 150 mg",
+      "generic": 11,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 55,
+    "fields": {
+      "name": "Zinetac 75 mg/5ml",
+      "generic": 11,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 56,
+    "fields": {
+      "name": "Pepcid 20 mg",
+      "generic": 12,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 57,
+    "fields": {
+      "name": "Famodin 20 mg",
+      "generic": 12,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 58,
+    "fields": {
+      "name": "Famon 20 mg",
+      "generic": 12,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 59,
+    "fields": {
+      "name": "Ulcerin 20 mg",
+      "generic": 12,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 60,
+    "fields": {
+      "name": "Famtac 20 mg",
+      "generic": 12,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 61,
+    "fields": {
+      "name": "Amoxil 500 mg",
+      "generic": 13,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 62,
+    "fields": {
+      "name": "Moxacil 500 mg",
+      "generic": 13,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 63,
+    "fields": {
+      "name": "Penamox 500 mg",
+      "generic": 13,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 64,
+    "fields": {
+      "name": "Amoxin 500 mg",
+      "generic": 13,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 65,
+    "fields": {
+      "name": "Amodis 250 mg/5ml",
+      "generic": 13,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 66,
+    "fields": {
+      "name": "Augmentin 625 mg",
+      "generic": 14,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 67,
+    "fields": {
+      "name": "Clavam 625 mg",
+      "generic": 14,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 68,
+    "fields": {
+      "name": "Moxaclav 625 mg",
+      "generic": 14,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 69,
+    "fields": {
+      "name": "Xyclav 625 mg",
+      "generic": 14,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 70,
+    "fields": {
+      "name": "Clavulin 457 mg/5ml",
+      "generic": 14,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 71,
+    "fields": {
+      "name": "Azee 500 mg",
+      "generic": 15,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 72,
+    "fields": {
+      "name": "Zithrin 500 mg",
+      "generic": 15,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 73,
+    "fields": {
+      "name": "Azith 500 mg",
+      "generic": 15,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 74,
+    "fields": {
+      "name": "Zimax 500 mg",
+      "generic": 15,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 75,
+    "fields": {
+      "name": "Azicin 500 mg",
+      "generic": 15,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 76,
+    "fields": {
+      "name": "Cef-3 200 mg",
+      "generic": 16,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 77,
+    "fields": {
+      "name": "Fixcef 200 mg",
+      "generic": 16,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 78,
+    "fields": {
+      "name": "Suprax 200 mg",
+      "generic": 16,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 79,
+    "fields": {
+      "name": "Cefix 200 mg",
+      "generic": 16,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 80,
+    "fields": {
+      "name": "Zimax 100 mg/5ml",
+      "generic": 16,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 81,
+    "fields": {
+      "name": "Rocephin 1 g",
+      "generic": 17,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 82,
+    "fields": {
+      "name": "Ceftron 1 g",
+      "generic": 17,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 83,
+    "fields": {
+      "name": "Triax 1 g",
+      "generic": 17,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 84,
+    "fields": {
+      "name": "Ceftria 1 g",
+      "generic": 17,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 85,
+    "fields": {
+      "name": "Lijenta 1 g",
+      "generic": 17,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 86,
+    "fields": {
+      "name": "Ciprocin 500 mg",
+      "generic": 18,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 87,
+    "fields": {
+      "name": "Ciprin 500 mg",
+      "generic": 18,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 88,
+    "fields": {
+      "name": "Ciplox 500 mg",
+      "generic": 18,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 89,
+    "fields": {
+      "name": "Cifran 500 mg",
+      "generic": 18,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 90,
+    "fields": {
+      "name": "Neoflox 500 mg",
+      "generic": 18,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 91,
+    "fields": {
+      "name": "Flagyl 400 mg",
+      "generic": 19,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 92,
+    "fields": {
+      "name": "Metro 400 mg",
+      "generic": 19,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 93,
+    "fields": {
+      "name": "Metryl 400 mg",
+      "generic": 19,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 94,
+    "fields": {
+      "name": "Nidazyl 400 mg",
+      "generic": 19,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 95,
+    "fields": {
+      "name": "Amodis 400 mg",
+      "generic": 19,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 96,
+    "fields": {
+      "name": "Doxicap 100 mg",
+      "generic": 20,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 97,
+    "fields": {
+      "name": "Vibramycin 100 mg",
+      "generic": 20,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 98,
+    "fields": {
+      "name": "Doxy 100 mg",
+      "generic": 20,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 99,
+    "fields": {
+      "name": "Doxtor 100 mg",
+      "generic": 20,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 100,
+    "fields": {
+      "name": "Doxylin 100 mg",
+      "generic": 20,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 101,
+    "fields": {
+      "name": "Zyrtec 10 mg",
+      "generic": 21,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 102,
+    "fields": {
+      "name": "Alatrol 10 mg",
+      "generic": 21,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 103,
+    "fields": {
+      "name": "Cetrin 10 mg",
+      "generic": 21,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 104,
+    "fields": {
+      "name": "Histacin 10 mg",
+      "generic": 21,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 105,
+    "fields": {
+      "name": "Cetizy 10 mg",
+      "generic": 21,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 106,
+    "fields": {
+      "name": "Claritin 10 mg",
+      "generic": 22,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 107,
+    "fields": {
+      "name": "Loratin 10 mg",
+      "generic": 22,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 108,
+    "fields": {
+      "name": "Lora 10 mg",
+      "generic": 22,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 109,
+    "fields": {
+      "name": "Alarid 10 mg",
+      "generic": 22,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 110,
+    "fields": {
+      "name": "Lorfast 10 mg",
+      "generic": 22,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 111,
+    "fields": {
+      "name": "Fexo 120 mg",
+      "generic": 23,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 112,
+    "fields": {
+      "name": "Telfast 120 mg",
+      "generic": 23,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 113,
+    "fields": {
+      "name": "Allegra 120 mg",
+      "generic": 23,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 114,
+    "fields": {
+      "name": "Fexadin 120 mg",
+      "generic": 23,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 115,
+    "fields": {
+      "name": "Histafree 120 mg",
+      "generic": 23,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 116,
+    "fields": {
+      "name": "Montair 10 mg",
+      "generic": 24,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 117,
+    "fields": {
+      "name": "Monas 10 mg",
+      "generic": 24,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 118,
+    "fields": {
+      "name": "Singulair 10 mg",
+      "generic": 24,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 119,
+    "fields": {
+      "name": "Montika 10 mg",
+      "generic": 24,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 120,
+    "fields": {
+      "name": "Lukast 10 mg",
+      "generic": 24,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 121,
+    "fields": {
+      "name": "Ventolin 100 mcg",
+      "generic": 25,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 122,
+    "fields": {
+      "name": "Asthalin 100 mcg",
+      "generic": 25,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 123,
+    "fields": {
+      "name": "Salbu 4 mg",
+      "generic": 25,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 124,
+    "fields": {
+      "name": "Butalin 4 mg",
+      "generic": 25,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 125,
+    "fields": {
+      "name": "Asmalin 2 mg/5ml",
+      "generic": 25,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 126,
+    "fields": {
+      "name": "Bisolvon 4 mg/5ml",
+      "generic": 26,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 127,
+    "fields": {
+      "name": "Broxine 4 mg/5ml",
+      "generic": 26,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 128,
+    "fields": {
+      "name": "Bromex 4 mg/5ml",
+      "generic": 26,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 129,
+    "fields": {
+      "name": "Mucol 8 mg",
+      "generic": 26,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 130,
+    "fields": {
+      "name": "Kofnil 8 mg",
+      "generic": 26,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 131,
+    "fields": {
+      "name": "Robitussin 10 mg/5ml",
+      "generic": 27,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 132,
+    "fields": {
+      "name": "Benylin 10 mg/5ml",
+      "generic": 27,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 133,
+    "fields": {
+      "name": "Cosstop 10 mg/5ml",
+      "generic": 27,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 134,
+    "fields": {
+      "name": "Tussidex 10 mg/5ml",
+      "generic": 27,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 135,
+    "fields": {
+      "name": "Dextro 10 mg/5ml",
+      "generic": 27,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 136,
+    "fields": {
+      "name": "Glucophage 500 mg",
+      "generic": 28,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 137,
+    "fields": {
+      "name": "Metfo 500 mg",
+      "generic": 28,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 138,
+    "fields": {
+      "name": "Bigmet 500 mg",
+      "generic": 28,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 139,
+    "fields": {
+      "name": "Glyformin 500 mg",
+      "generic": 28,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 140,
+    "fields": {
+      "name": "Diabetmin 500 mg",
+      "generic": 28,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 141,
+    "fields": {
+      "name": "Daonil 5 mg",
+      "generic": 29,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 142,
+    "fields": {
+      "name": "Euglucon 5 mg",
+      "generic": 29,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 143,
+    "fields": {
+      "name": "Gliben 5 mg",
+      "generic": 29,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 144,
+    "fields": {
+      "name": "Melix 5 mg",
+      "generic": 29,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 145,
+    "fields": {
+      "name": "Glyben 5 mg",
+      "generic": 29,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 146,
+    "fields": {
+      "name": "Lantus 100 IU/ml",
+      "generic": 30,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 147,
+    "fields": {
+      "name": "Basaglar 100 IU/ml",
+      "generic": 30,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 148,
+    "fields": {
+      "name": "Toujeo 300 IU/ml",
+      "generic": 30,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 149,
+    "fields": {
+      "name": "Glargin 100 IU/ml",
+      "generic": 30,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 150,
+    "fields": {
+      "name": "Insugen-G 100 IU/ml",
+      "generic": 30,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 151,
+    "fields": {
+      "name": "Amlodac 5 mg",
+      "generic": 31,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 152,
+    "fields": {
+      "name": "Norvasc 5 mg",
+      "generic": 31,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 153,
+    "fields": {
+      "name": "Amlovas 5 mg",
+      "generic": 31,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 154,
+    "fields": {
+      "name": "Amcard 5 mg",
+      "generic": 31,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 155,
+    "fields": {
+      "name": "Lodipin 5 mg",
+      "generic": 31,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 156,
+    "fields": {
+      "name": "Losar 50 mg",
+      "generic": 32,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 157,
+    "fields": {
+      "name": "Repace 50 mg",
+      "generic": 32,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 158,
+    "fields": {
+      "name": "Covance 50 mg",
+      "generic": 32,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 159,
+    "fields": {
+      "name": "Losacard 50 mg",
+      "generic": 32,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 160,
+    "fields": {
+      "name": "Lortan 50 mg",
+      "generic": 32,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 161,
+    "fields": {
+      "name": "Tenormin 50 mg",
+      "generic": 33,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 162,
+    "fields": {
+      "name": "Aten 50 mg",
+      "generic": 33,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 163,
+    "fields": {
+      "name": "Betanol 50 mg",
+      "generic": 33,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 164,
+    "fields": {
+      "name": "Atenol 50 mg",
+      "generic": 33,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 165,
+    "fields": {
+      "name": "Carditen 50 mg",
+      "generic": 33,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 166,
+    "fields": {
+      "name": "Lasix 40 mg",
+      "generic": 34,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 167,
+    "fields": {
+      "name": "Furo 40 mg",
+      "generic": 34,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 168,
+    "fields": {
+      "name": "Diures 40 mg",
+      "generic": 34,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 169,
+    "fields": {
+      "name": "Furix 40 mg",
+      "generic": 34,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 170,
+    "fields": {
+      "name": "Frusemide 20 mg",
+      "generic": 34,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 171,
+    "fields": {
+      "name": "Disprin 300 mg",
+      "generic": 35,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 172,
+    "fields": {
+      "name": "Ecosprin 75 mg",
+      "generic": 35,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 173,
+    "fields": {
+      "name": "Ascard 75 mg",
+      "generic": 35,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 174,
+    "fields": {
+      "name": "Loprin 75 mg",
+      "generic": 35,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 175,
+    "fields": {
+      "name": "Aspirin 300 mg",
+      "generic": 35,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 176,
+    "fields": {
+      "name": "Plavix 75 mg",
+      "generic": 36,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 177,
+    "fields": {
+      "name": "Clopilet 75 mg",
+      "generic": 36,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 178,
+    "fields": {
+      "name": "Deplatt 75 mg",
+      "generic": 36,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 179,
+    "fields": {
+      "name": "Plagril 75 mg",
+      "generic": 36,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 180,
+    "fields": {
+      "name": "Clopid 75 mg",
+      "generic": 36,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 181,
+    "fields": {
+      "name": "Lipitor 10 mg",
+      "generic": 37,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 182,
+    "fields": {
+      "name": "Atova 10 mg",
+      "generic": 37,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 183,
+    "fields": {
+      "name": "Sortis 10 mg",
+      "generic": 37,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 184,
+    "fields": {
+      "name": "Atorlip 10 mg",
+      "generic": 37,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 185,
+    "fields": {
+      "name": "Torvas 10 mg",
+      "generic": 37,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 186,
+    "fields": {
+      "name": "Crestor 10 mg",
+      "generic": 38,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 187,
+    "fields": {
+      "name": "Rosuva 10 mg",
+      "generic": 38,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 188,
+    "fields": {
+      "name": "Rovast 10 mg",
+      "generic": 38,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 189,
+    "fields": {
+      "name": "Rosulin 10 mg",
+      "generic": 38,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 190,
+    "fields": {
+      "name": "Roseday 10 mg",
+      "generic": 38,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 191,
+    "fields": {
+      "name": "Lioresal 10 mg",
+      "generic": 39,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 192,
+    "fields": {
+      "name": "Baclo 10 mg",
+      "generic": 39,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 193,
+    "fields": {
+      "name": "Baclon 10 mg",
+      "generic": 39,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 194,
+    "fields": {
+      "name": "Bacfen 10 mg",
+      "generic": 39,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 195,
+    "fields": {
+      "name": "Bacmax 10 mg",
+      "generic": 39,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 196,
+    "fields": {
+      "name": "Zofran 4 mg",
+      "generic": 40,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 197,
+    "fields": {
+      "name": "Emeset 4 mg",
+      "generic": 40,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 198,
+    "fields": {
+      "name": "Ondemet 4 mg",
+      "generic": 40,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 199,
+    "fields": {
+      "name": "Vomiset 4 mg",
+      "generic": 40,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 200,
+    "fields": {
+      "name": "Onaseron 4 mg",
+      "generic": 40,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 201,
+    "fields": {
+      "name": "Alben 400 mg",
+      "generic": 41,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 202,
+    "fields": {
+      "name": "Zentel 400 mg",
+      "generic": 41,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 203,
+    "fields": {
+      "name": "Alworm 400 mg",
+      "generic": 41,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 204,
+    "fields": {
+      "name": "Bendex 400 mg",
+      "generic": 41,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 205,
+    "fields": {
+      "name": "Wormin 400 mg",
+      "generic": 41,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 206,
+    "fields": {
+      "name": "Vermox 100 mg",
+      "generic": 42,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 207,
+    "fields": {
+      "name": "Meban 100 mg",
+      "generic": 42,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 208,
+    "fields": {
+      "name": "Bendazol 100 mg",
+      "generic": 42,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 209,
+    "fields": {
+      "name": "Mebex 100 mg",
+      "generic": 42,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 210,
+    "fields": {
+      "name": "Antiworm 100 mg",
+      "generic": 42,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 211,
+    "fields": {
+      "name": "Ivera 12 mg",
+      "generic": 43,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 212,
+    "fields": {
+      "name": "Stromectol 12 mg",
+      "generic": 43,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 213,
+    "fields": {
+      "name": "Ivecare 12 mg",
+      "generic": 43,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 214,
+    "fields": {
+      "name": "Ivexterm 12 mg",
+      "generic": 43,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 215,
+    "fields": {
+      "name": "Ivertin 12 mg",
+      "generic": 43,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 216,
+    "fields": {
+      "name": "Diflucan 150 mg",
+      "generic": 44,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 217,
+    "fields": {
+      "name": "Flucan 150 mg",
+      "generic": 44,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 218,
+    "fields": {
+      "name": "Forcan 150 mg",
+      "generic": 44,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 219,
+    "fields": {
+      "name": "Fungi 150 mg",
+      "generic": 44,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 220,
+    "fields": {
+      "name": "Canazole 150 mg",
+      "generic": 44,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 221,
+    "fields": {
+      "name": "Nizoral 200 mg",
+      "generic": 45,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 222,
+    "fields": {
+      "name": "Ketoral 200 mg",
+      "generic": 45,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 223,
+    "fields": {
+      "name": "Ketonex 200 mg",
+      "generic": 45,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 224,
+    "fields": {
+      "name": "Mycozol 200 mg",
+      "generic": 45,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 225,
+    "fields": {
+      "name": "Ketozol 200 mg",
+      "generic": 45,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 226,
+    "fields": {
+      "name": "Canesten 1%",
+      "generic": 46,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 227,
+    "fields": {
+      "name": "Candid 1%",
+      "generic": 46,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 228,
+    "fields": {
+      "name": "Clotrim 1%",
+      "generic": 46,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 229,
+    "fields": {
+      "name": "Fungidal 1%",
+      "generic": 46,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 230,
+    "fields": {
+      "name": "Mycofin 1%",
+      "generic": 46,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 231,
+    "fields": {
+      "name": "Omnacortil 5 mg",
+      "generic": 47,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 232,
+    "fields": {
+      "name": "Predni 5 mg",
+      "generic": 47,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 233,
+    "fields": {
+      "name": "Predsol 5 mg",
+      "generic": 47,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 234,
+    "fields": {
+      "name": "Wysolone 5 mg",
+      "generic": 47,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 235,
+    "fields": {
+      "name": "Predone 5 mg",
+      "generic": 47,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 236,
+    "fields": {
+      "name": "Dexa 0.5 mg",
+      "generic": 48,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 237,
+    "fields": {
+      "name": "Decadron 0.5 mg",
+      "generic": 48,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 238,
+    "fields": {
+      "name": "Dexamet 0.5 mg",
+      "generic": 48,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 239,
+    "fields": {
+      "name": "Oradexon 0.5 mg",
+      "generic": 48,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 240,
+    "fields": {
+      "name": "Maxidex 0.5 mg",
+      "generic": 48,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 241,
+    "fields": {
+      "name": "Cortaid 1%",
+      "generic": 49,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 242,
+    "fields": {
+      "name": "Hycort 1%",
+      "generic": 49,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 243,
+    "fields": {
+      "name": "Cortisyl 1%",
+      "generic": 49,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 244,
+    "fields": {
+      "name": "Dermacort 1%",
+      "generic": 49,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 245,
+    "fields": {
+      "name": "Cortimax 1%",
+      "generic": 49,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 246,
+    "fields": {
+      "name": "Betnovate 0.1%",
+      "generic": 50,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 247,
+    "fields": {
+      "name": "Betnosol 0.1%",
+      "generic": 50,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 248,
+    "fields": {
+      "name": "Betacap 0.1%",
+      "generic": 50,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 249,
+    "fields": {
+      "name": "Betaderm 0.1%",
+      "generic": 50,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 250,
+    "fields": {
+      "name": "Betavate 0.1%",
+      "generic": 50,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 251,
+    "fields": {
+      "name": "Thyrox 50 mcg",
+      "generic": 51,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 252,
+    "fields": {
+      "name": "Eltroxin 50 mcg",
+      "generic": 51,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 253,
+    "fields": {
+      "name": "Thyronorm 50 mcg",
+      "generic": 51,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 254,
+    "fields": {
+      "name": "Levotab 50 mcg",
+      "generic": 51,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 255,
+    "fields": {
+      "name": "Thyroxin 50 mcg",
+      "generic": 51,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 256,
+    "fields": {
+      "name": "Keppra 500 mg",
+      "generic": 52,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 257,
+    "fields": {
+      "name": "Levera 500 mg",
+      "generic": 52,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 258,
+    "fields": {
+      "name": "Levipil 500 mg",
+      "generic": 52,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 259,
+    "fields": {
+      "name": "Levecam 500 mg",
+      "generic": 52,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 260,
+    "fields": {
+      "name": "Epilep 500 mg",
+      "generic": 52,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 261,
+    "fields": {
+      "name": "Eptoin 100 mg",
+      "generic": 53,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 262,
+    "fields": {
+      "name": "Dilantin 100 mg",
+      "generic": 53,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 263,
+    "fields": {
+      "name": "Phenytek 100 mg",
+      "generic": 53,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 264,
+    "fields": {
+      "name": "Epilan 100 mg",
+      "generic": 53,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 265,
+    "fields": {
+      "name": "Hydantoin 100 mg",
+      "generic": 53,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 266,
+    "fields": {
+      "name": "Epilim 200 mg",
+      "generic": 54,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 267,
+    "fields": {
+      "name": "Valparin 200 mg",
+      "generic": 54,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 268,
+    "fields": {
+      "name": "Encorate 200 mg",
+      "generic": 54,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 269,
+    "fields": {
+      "name": "Valpo 200 mg",
+      "generic": 54,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 270,
+    "fields": {
+      "name": "Convulex 200 mg",
+      "generic": 54,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 271,
+    "fields": {
+      "name": "Luminal 60 mg",
+      "generic": 55,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 272,
+    "fields": {
+      "name": "Barbitone 60 mg",
+      "generic": 55,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 273,
+    "fields": {
+      "name": "Phenobarb 60 mg",
+      "generic": 55,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 274,
+    "fields": {
+      "name": "Epinal 60 mg",
+      "generic": 55,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 275,
+    "fields": {
+      "name": "Barbid 60 mg",
+      "generic": 55,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 276,
+    "fields": {
+      "name": "Tegretol 200 mg",
+      "generic": 56,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 277,
+    "fields": {
+      "name": "Mazetol 200 mg",
+      "generic": 56,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 278,
+    "fields": {
+      "name": "Carba 200 mg",
+      "generic": 56,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 279,
+    "fields": {
+      "name": "Zeptol 200 mg",
+      "generic": 56,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 280,
+    "fields": {
+      "name": "Carbazin 200 mg",
+      "generic": 56,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 281,
+    "fields": {
+      "name": "Valium 5 mg",
+      "generic": 57,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 282,
+    "fields": {
+      "name": "Sedil 5 mg",
+      "generic": 57,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 283,
+    "fields": {
+      "name": "Anxil 5 mg",
+      "generic": 57,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 284,
+    "fields": {
+      "name": "Diaz 5 mg",
+      "generic": 57,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 285,
+    "fields": {
+      "name": "Calmpose 5 mg",
+      "generic": 57,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 286,
+    "fields": {
+      "name": "Ativan 1 mg",
+      "generic": 58,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 287,
+    "fields": {
+      "name": "Lora 1 mg",
+      "generic": 58,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 288,
+    "fields": {
+      "name": "Lorace 1 mg",
+      "generic": 58,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 289,
+    "fields": {
+      "name": "Trapex 1 mg",
+      "generic": 58,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 290,
+    "fields": {
+      "name": "Anxipam 1 mg",
+      "generic": 58,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 291,
+    "fields": {
+      "name": "Tryptomer 25 mg",
+      "generic": 59,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 292,
+    "fields": {
+      "name": "Amitrip 25 mg",
+      "generic": 59,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 293,
+    "fields": {
+      "name": "Elavil 25 mg",
+      "generic": 59,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 294,
+    "fields": {
+      "name": "Triptizol 25 mg",
+      "generic": 59,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 295,
+    "fields": {
+      "name": "Neurolith 25 mg",
+      "generic": 59,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 296,
+    "fields": {
+      "name": "Prozac 20 mg",
+      "generic": 60,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 297,
+    "fields": {
+      "name": "Flunil 20 mg",
+      "generic": 60,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 298,
+    "fields": {
+      "name": "Fluox 20 mg",
+      "generic": 60,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 299,
+    "fields": {
+      "name": "Oxetin 20 mg",
+      "generic": 60,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 300,
+    "fields": {
+      "name": "Depres 20 mg",
+      "generic": 60,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 301,
+    "fields": {
+      "name": "Zoloft 50 mg",
+      "generic": 61,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 302,
+    "fields": {
+      "name": "Serlift 50 mg",
+      "generic": 61,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 303,
+    "fields": {
+      "name": "Setral 50 mg",
+      "generic": 61,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 304,
+    "fields": {
+      "name": "Sertima 50 mg",
+      "generic": 61,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 305,
+    "fields": {
+      "name": "Deprexa 50 mg",
+      "generic": 61,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 306,
+    "fields": {
+      "name": "Haldol 5 mg",
+      "generic": 62,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 307,
+    "fields": {
+      "name": "Serenace 5 mg",
+      "generic": 62,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 308,
+    "fields": {
+      "name": "Halop 5 mg",
+      "generic": 62,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 309,
+    "fields": {
+      "name": "Trancodol 5 mg",
+      "generic": 62,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 310,
+    "fields": {
+      "name": "Psychodol 5 mg",
+      "generic": 62,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 311,
+    "fields": {
+      "name": "Risperdal 2 mg",
+      "generic": 63,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 312,
+    "fields": {
+      "name": "Rispin 2 mg",
+      "generic": 63,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 313,
+    "fields": {
+      "name": "Sizodon 2 mg",
+      "generic": 63,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 314,
+    "fields": {
+      "name": "Respidon 2 mg",
+      "generic": 63,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 315,
+    "fields": {
+      "name": "Risnia 2 mg",
+      "generic": 63,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 316,
+    "fields": {
+      "name": "Zyprexa 5 mg",
+      "generic": 64,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 317,
+    "fields": {
+      "name": "Oleanz 5 mg",
+      "generic": 64,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 318,
+    "fields": {
+      "name": "Oliza 5 mg",
+      "generic": 64,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 319,
+    "fields": {
+      "name": "Olanex 5 mg",
+      "generic": 64,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 320,
+    "fields": {
+      "name": "Lanzap 5 mg",
+      "generic": 64,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 321,
+    "fields": {
+      "name": "Seroquel 25 mg",
+      "generic": 65,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 322,
+    "fields": {
+      "name": "Qutipin 25 mg",
+      "generic": 65,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 323,
+    "fields": {
+      "name": "Quitip 25 mg",
+      "generic": 65,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 324,
+    "fields": {
+      "name": "Quetia 25 mg",
+      "generic": 65,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 325,
+    "fields": {
+      "name": "Qutan 25 mg",
+      "generic": 65,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 326,
+    "fields": {
+      "name": "Motilium 10 mg",
+      "generic": 66,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 327,
+    "fields": {
+      "name": "Domstal 10 mg",
+      "generic": 66,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 328,
+    "fields": {
+      "name": "Domper 10 mg",
+      "generic": 66,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 329,
+    "fields": {
+      "name": "Peridon 10 mg",
+      "generic": 66,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 330,
+    "fields": {
+      "name": "Vomilux 10 mg",
+      "generic": 66,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 331,
+    "fields": {
+      "name": "Maxolon 10 mg",
+      "generic": 67,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 332,
+    "fields": {
+      "name": "Reglan 10 mg",
+      "generic": 67,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 333,
+    "fields": {
+      "name": "Perinorm 10 mg",
+      "generic": 67,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 334,
+    "fields": {
+      "name": "Metoclop 10 mg",
+      "generic": 67,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 335,
+    "fields": {
+      "name": "Emistat 10 mg",
+      "generic": 67,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 336,
+    "fields": {
+      "name": "Buscopan 10 mg",
+      "generic": 68,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 337,
+    "fields": {
+      "name": "Hyospas 10 mg",
+      "generic": 68,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 338,
+    "fields": {
+      "name": "Spasmopan 10 mg",
+      "generic": 68,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 339,
+    "fields": {
+      "name": "Scopinal 10 mg",
+      "generic": 68,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 340,
+    "fields": {
+      "name": "Colipan 10 mg",
+      "generic": 68,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 341,
+    "fields": {
+      "name": "Bentyl 20 mg",
+      "generic": 69,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 342,
+    "fields": {
+      "name": "Dicyclo 20 mg",
+      "generic": 69,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 343,
+    "fields": {
+      "name": "Spasrid 20 mg",
+      "generic": 69,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 344,
+    "fields": {
+      "name": "Colospas 20 mg",
+      "generic": 69,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 345,
+    "fields": {
+      "name": "Spasmover 20 mg",
+      "generic": 69,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 346,
+    "fields": {
+      "name": "Gas-X 80 mg",
+      "generic": 70,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 347,
+    "fields": {
+      "name": "Flatulex 80 mg",
+      "generic": 70,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 348,
+    "fields": {
+      "name": "Simeth 80 mg",
+      "generic": 70,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 349,
+    "fields": {
+      "name": "Dysflat 80 mg",
+      "generic": 70,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 350,
+    "fields": {
+      "name": "Gasnil 80 mg",
+      "generic": 70,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 351,
+    "fields": {
+      "name": "Duphalac 10 g/15 ml",
+      "generic": 71,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 352,
+    "fields": {
+      "name": "Looz 10 g/15 ml",
+      "generic": 71,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 353,
+    "fields": {
+      "name": "Lactulax 10 g/15 ml",
+      "generic": 71,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 354,
+    "fields": {
+      "name": "Laxilac 10 g/15 ml",
+      "generic": 71,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 355,
+    "fields": {
+      "name": "Lactaid 10 g/15 ml",
+      "generic": 71,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 356,
+    "fields": {
+      "name": "Milk of Magnesia 400 mg/5 ml",
+      "generic": 72,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 357,
+    "fields": {
+      "name": "Magmil 400 mg/5 ml",
+      "generic": 72,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 358,
+    "fields": {
+      "name": "Maglac 400 mg/5 ml",
+      "generic": 72,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 359,
+    "fields": {
+      "name": "Moxilax 400 mg/5 ml",
+      "generic": 72,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 360,
+    "fields": {
+      "name": "Laxmag 400 mg/5 ml",
+      "generic": 72,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 361,
+    "fields": {
+      "name": "Dulcolax 5 mg",
+      "generic": 73,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 362,
+    "fields": {
+      "name": "Bisalax 5 mg",
+      "generic": 73,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 363,
+    "fields": {
+      "name": "Constilax 5 mg",
+      "generic": 73,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 364,
+    "fields": {
+      "name": "Laxitab 5 mg",
+      "generic": 73,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 365,
+    "fields": {
+      "name": "Bisodil 5 mg",
+      "generic": 73,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 366,
+    "fields": {
+      "name": "ORSaline-N 20.5 g",
+      "generic": 74,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 367,
+    "fields": {
+      "name": "Pedialyte 20.5 g",
+      "generic": 74,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 368,
+    "fields": {
+      "name": "Oralite 20.5 g",
+      "generic": 74,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 369,
+    "fields": {
+      "name": "Rehydron 20.5 g",
+      "generic": 74,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 370,
+    "fields": {
+      "name": "Hydralyte 20.5 g",
+      "generic": 74,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 371,
+    "fields": {
+      "name": "Ceevit 500 mg",
+      "generic": 75,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 372,
+    "fields": {
+      "name": "Redoxon 500 mg",
+      "generic": 75,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 373,
+    "fields": {
+      "name": "Limcee 500 mg",
+      "generic": 75,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 374,
+    "fields": {
+      "name": "Celin 500 mg",
+      "generic": 75,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 375,
+    "fields": {
+      "name": "Vitac 500 mg",
+      "generic": 75,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 376,
+    "fields": {
+      "name": "Becosules 1 cap",
+      "generic": 76,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 377,
+    "fields": {
+      "name": "Becoplex 1 cap",
+      "generic": 76,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 378,
+    "fields": {
+      "name": "Neuro-B 1 cap",
+      "generic": 76,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 379,
+    "fields": {
+      "name": "B-Plex 1 cap",
+      "generic": 76,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 380,
+    "fields": {
+      "name": "Bevit 1 cap",
+      "generic": 76,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 381,
+    "fields": {
+      "name": "Calbo-D 500 mg",
+      "generic": 77,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 382,
+    "fields": {
+      "name": "Ostocal-D 500 mg",
+      "generic": 77,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 383,
+    "fields": {
+      "name": "Coralcal-D 500 mg",
+      "generic": 77,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 384,
+    "fields": {
+      "name": "Cal-D 500 mg",
+      "generic": 77,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 385,
+    "fields": {
+      "name": "Calvit-D 500 mg",
+      "generic": 77,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 386,
+    "fields": {
+      "name": "Fefol 150 mg",
+      "generic": 78,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 387,
+    "fields": {
+      "name": "Hemofix 150 mg",
+      "generic": 78,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 388,
+    "fields": {
+      "name": "Ferolin 150 mg",
+      "generic": 78,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 389,
+    "fields": {
+      "name": "Ferroplus 150 mg",
+      "generic": 78,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 390,
+    "fields": {
+      "name": "Iberet 150 mg",
+      "generic": 78,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 391,
+    "fields": {
+      "name": "Acuzinc 20 mg",
+      "generic": 79,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 392,
+    "fields": {
+      "name": "Ziflu 20 mg",
+      "generic": 79,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 393,
+    "fields": {
+      "name": "Zincep 20 mg",
+      "generic": 79,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 394,
+    "fields": {
+      "name": "Zinco 20 mg",
+      "generic": 79,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 395,
+    "fields": {
+      "name": "Zincovit 20 mg",
+      "generic": 79,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 396,
+    "fields": {
+      "name": "Actrapid 100 IU/ml",
+      "generic": 80,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 397,
+    "fields": {
+      "name": "Humulin-R 100 IU/ml",
+      "generic": 80,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 398,
+    "fields": {
+      "name": "Insugen-R 100 IU/ml",
+      "generic": 80,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 399,
+    "fields": {
+      "name": "Novorapid 100 IU/ml",
+      "generic": 80,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 400,
+    "fields": {
+      "name": "Gensulin-R 100 IU/ml",
+      "generic": 80,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 401,
+    "fields": {
+      "name": "Lantus 100 IU/ml",
+      "generic": 30,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 402,
+    "fields": {
+      "name": "Basaglar 100 IU/ml",
+      "generic": 30,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 403,
+    "fields": {
+      "name": "Toujeo 300 IU/ml",
+      "generic": 30,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 404,
+    "fields": {
+      "name": "Glargin 100 IU/ml",
+      "generic": 30,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 405,
+    "fields": {
+      "name": "Insugen-G 100 IU/ml",
+      "generic": 30,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 406,
+    "fields": {
+      "name": "Canesten 100 mg",
+      "generic": 81,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 407,
+    "fields": {
+      "name": "Candid-V 100 mg",
+      "generic": 81,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 408,
+    "fields": {
+      "name": "Clotrim-V 100 mg",
+      "generic": 81,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 409,
+    "fields": {
+      "name": "Mycofit-V 100 mg",
+      "generic": 81,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 410,
+    "fields": {
+      "name": "Fungicid-V 100 mg",
+      "generic": 81,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 411,
+    "fields": {
+      "name": "Zovirax 400 mg",
+      "generic": 82,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 412,
+    "fields": {
+      "name": "Acivir 400 mg",
+      "generic": 82,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 413,
+    "fields": {
+      "name": "Herpex 400 mg",
+      "generic": 82,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 414,
+    "fields": {
+      "name": "Cyclovir 400 mg",
+      "generic": 82,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 415,
+    "fields": {
+      "name": "Virux 400 mg",
+      "generic": 82,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 416,
+    "fields": {
+      "name": "Serc 16 mg",
+      "generic": 83,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 417,
+    "fields": {
+      "name": "Vertin 16 mg",
+      "generic": 83,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 418,
+    "fields": {
+      "name": "Betaserc 16 mg",
+      "generic": 83,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 419,
+    "fields": {
+      "name": "Histigo 16 mg",
+      "generic": 83,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 420,
+    "fields": {
+      "name": "Vertigon 16 mg",
+      "generic": 83,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 421,
+    "fields": {
+      "name": "Antivert 25 mg",
+      "generic": 84,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 422,
+    "fields": {
+      "name": "Mecliz 25 mg",
+      "generic": 84,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 423,
+    "fields": {
+      "name": "Vertigo 25 mg",
+      "generic": 84,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 424,
+    "fields": {
+      "name": "Diziron 25 mg",
+      "generic": 84,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 425,
+    "fields": {
+      "name": "Vertinex 25 mg",
+      "generic": 84,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 426,
+    "fields": {
+      "name": "Inderal 40 mg",
+      "generic": 85,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 427,
+    "fields": {
+      "name": "Ciplar 40 mg",
+      "generic": 85,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 428,
+    "fields": {
+      "name": "Propanol 40 mg",
+      "generic": 85,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 429,
+    "fields": {
+      "name": "Cardinol 40 mg",
+      "generic": 85,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 430,
+    "fields": {
+      "name": "Betanol 40 mg",
+      "generic": 85,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 431,
+    "fields": {
+      "name": "Lanoxin 0.25 mg",
+      "generic": 86,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 432,
+    "fields": {
+      "name": "Digitek 0.25 mg",
+      "generic": 86,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 433,
+    "fields": {
+      "name": "Digene 0.25 mg",
+      "generic": 86,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 434,
+    "fields": {
+      "name": "Digon 0.25 mg",
+      "generic": 86,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 435,
+    "fields": {
+      "name": "Cardioxin 0.25 mg",
+      "generic": 86,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 436,
+    "fields": {
+      "name": "Coumadin 5 mg",
+      "generic": 87,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 437,
+    "fields": {
+      "name": "Warfin 5 mg",
+      "generic": 87,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 438,
+    "fields": {
+      "name": "Marevan 5 mg",
+      "generic": 87,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 439,
+    "fields": {
+      "name": "Warfit 5 mg",
+      "generic": 87,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 440,
+    "fields": {
+      "name": "Anticoag 5 mg",
+      "generic": 87,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 441,
+    "fields": {
+      "name": "Clexane 40 mg",
+      "generic": 88,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 442,
+    "fields": {
+      "name": "Enoxa 40 mg",
+      "generic": 88,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 443,
+    "fields": {
+      "name": "Lowplex 40 mg",
+      "generic": 88,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 444,
+    "fields": {
+      "name": "Enoxil 40 mg",
+      "generic": 88,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 445,
+    "fields": {
+      "name": "Thrombo 40 mg",
+      "generic": 88,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 446,
+    "fields": {
+      "name": "Heparin 5000 IU",
+      "generic": 89,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 447,
+    "fields": {
+      "name": "Hepflush 5000 IU",
+      "generic": 89,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 448,
+    "fields": {
+      "name": "Heptin 5000 IU",
+      "generic": 89,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 449,
+    "fields": {
+      "name": "Antico 5000 IU",
+      "generic": 89,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 450,
+    "fields": {
+      "name": "Thrombol 5000 IU",
+      "generic": 89,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 451,
+    "fields": {
+      "name": "Garamycin 80 mg",
+      "generic": 90,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 452,
+    "fields": {
+      "name": "Gentin 80 mg",
+      "generic": 90,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 453,
+    "fields": {
+      "name": "Gentab 80 mg",
+      "generic": 90,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 454,
+    "fields": {
+      "name": "Genta 80 mg",
+      "generic": 90,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 455,
+    "fields": {
+      "name": "Genmax 80 mg",
+      "generic": 90,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 456,
+    "fields": {
+      "name": "Amikin 500 mg",
+      "generic": 91,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 457,
+    "fields": {
+      "name": "Amikacin 500 mg",
+      "generic": 91,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 458,
+    "fields": {
+      "name": "Amikab 500 mg",
+      "generic": 91,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 459,
+    "fields": {
+      "name": "Amisafe 500 mg",
+      "generic": 91,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 460,
+    "fields": {
+      "name": "Mikacin 500 mg",
+      "generic": 91,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 461,
+    "fields": {
+      "name": "Zinnat 500 mg",
+      "generic": 92,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 462,
+    "fields": {
+      "name": "Cefurix 500 mg",
+      "generic": 92,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 463,
+    "fields": {
+      "name": "Xime 500 mg",
+      "generic": 92,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 464,
+    "fields": {
+      "name": "Cefurox 500 mg",
+      "generic": 92,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 465,
+    "fields": {
+      "name": "Cefurol 500 mg",
+      "generic": 92,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 466,
+    "fields": {
+      "name": "Zyvox 600 mg",
+      "generic": 93,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 467,
+    "fields": {
+      "name": "Linex 600 mg",
+      "generic": 93,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 468,
+    "fields": {
+      "name": "Lizolid 600 mg",
+      "generic": 93,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 469,
+    "fields": {
+      "name": "Linz 600 mg",
+      "generic": 93,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 470,
+    "fields": {
+      "name": "Linoz 600 mg",
+      "generic": 93,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 471,
+    "fields": {
+      "name": "Lioresal 10 mg",
+      "generic": 39,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 472,
+    "fields": {
+      "name": "Baclo 10 mg",
+      "generic": 39,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 473,
+    "fields": {
+      "name": "Baclon 10 mg",
+      "generic": 39,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 474,
+    "fields": {
+      "name": "Bacfen 10 mg",
+      "generic": 39,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 475,
+    "fields": {
+      "name": "Bacmax 10 mg",
+      "generic": 39,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 476,
+    "fields": {
+      "name": "Zofran 4 mg",
+      "generic": 40,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 477,
+    "fields": {
+      "name": "Emeset 4 mg",
+      "generic": 40,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 478,
+    "fields": {
+      "name": "Ondemet 4 mg",
+      "generic": 40,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 479,
+    "fields": {
+      "name": "Vomiset 4 mg",
+      "generic": 40,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 480,
+    "fields": {
+      "name": "Onaseron 4 mg",
+      "generic": 40,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 481,
+    "fields": {
+      "name": "Debridat 100 mg",
+      "generic": 94,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 482,
+    "fields": {
+      "name": "Trimed 100 mg",
+      "generic": 94,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 483,
+    "fields": {
+      "name": "Trimspa 100 mg",
+      "generic": 94,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 484,
+    "fields": {
+      "name": "IBSnil 100 mg",
+      "generic": 94,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 485,
+    "fields": {
+      "name": "Spastrim 100 mg",
+      "generic": 94,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 486,
+    "fields": {
+      "name": "Ursofalk 300 mg",
+      "generic": 95,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 487,
+    "fields": {
+      "name": "Udiliv 300 mg",
+      "generic": 95,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 488,
+    "fields": {
+      "name": "Ursocol 300 mg",
+      "generic": 95,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 489,
+    "fields": {
+      "name": "Udihep 300 mg",
+      "generic": 95,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 490,
+    "fields": {
+      "name": "Ursosan 300 mg",
+      "generic": 95,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 491,
+    "fields": {
+      "name": "Zyloric 100 mg",
+      "generic": 96,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 492,
+    "fields": {
+      "name": "Aloril 100 mg",
+      "generic": 96,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 493,
+    "fields": {
+      "name": "Allopur 100 mg",
+      "generic": 96,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 494,
+    "fields": {
+      "name": "Uricol 100 mg",
+      "generic": 96,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 495,
+    "fields": {
+      "name": "Purinol 100 mg",
+      "generic": 96,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 496,
+    "fields": {
+      "name": "Proscar 5 mg",
+      "generic": 97,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 497,
+    "fields": {
+      "name": "Finax 5 mg",
+      "generic": 97,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 498,
+    "fields": {
+      "name": "Fincar 5 mg",
+      "generic": 97,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 499,
+    "fields": {
+      "name": "Finalo 5 mg",
+      "generic": 97,
+      "price": null,
+      "warnings": null
+    }
+  },
+  {
+    "model": "core.medicine",
+    "pk": 500,
+    "fields": {
+      "name": "Profin 5 mg",
+      "generic": 97,
+      "price": null,
+      "warnings": null
+    }
+  }
+]
